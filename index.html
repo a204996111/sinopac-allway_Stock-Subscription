@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>永豐全方way - 股票申購抽籤</title>
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="股票抽籤">
+    <meta name="theme-color" content="#f4f7f6">
+
+    <link rel="apple-touch-icon" href="logo.png">
+    <link rel="icon" type="image/png" href="logo.png"> 
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: { 
+                extend: { 
+                    colors: { 
+                        brandRed: '#E60012', 
+                        brandBlue: '#0B0F19', 
+                        twBuy: '#E60012', 
+                        twSell: '#00A65A' 
+                    } 
+                } 
+            }
+        }
+    </script>
+
+    <style>
+        /* 基礎樣式設定 (完全對齊損益計算機) */
+        body {
+            font-family: "Microsoft JhengHei", "Heiti TC", sans-serif;
+            background-color: #f4f7f6;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; 
+            min-height: 100vh;   
+            margin: 0;
+            padding: 20px 15px;
+            overscroll-behavior-y: none;
+            -webkit-user-select: none; 
+            user-select: none;
+        }
+
+        /* 統一的窄版容器 */
+        .container-box {
+            background-color: white; 
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='150'%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' transform='rotate(-25, 100, 75)' fill='rgba(0,0,0,0.04)' font-size='20' font-weight='bold' font-family='sans-serif'%3E%E6%B0%B8%E8%B1%90%E5%85%A8%E6%96%B9way%3C/text%3E%3C/svg%3E");
+            background-repeat: repeat;
+            background-position: center;
+            padding: 25px 20px;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 550px; /* 🌟 瘦身關鍵：限制最大寬度 */
+            margin-bottom: 40px; 
+            position: relative;
+            z-index: 1;
+            box-sizing: border-box;
+        }
+
+        /* 品牌標題 */
+        .brand-header {
+            display: flex;
+            align-items: center; 
+            justify-content: center;
+            margin-bottom: 20px;
+            gap: 15px; 
+        }
+
+        .brand-logo {
+            height: 85px; 
+            width: auto;
+            border-radius: 8px;
+        }
+
+        .brand-text { text-align: center; }
+        .brand-text h1 {
+            color: #111; 
+            font-size: 34px; 
+            margin: 0;
+            font-weight: 900; 
+            letter-spacing: 1px;
+        }
+        .brand-text h2 {
+            color: #555; 
+            font-size: 16px; 
+            margin: 5px 0 0 0;
+            font-weight: bold;
+            letter-spacing: 2px;
+        }
+
+        /* 卡片與資訊列 (對齊 adv-panel 風格) */
+        .adv-panel {
+            background-color: rgba(248, 249, 250, 0.9); 
+            border: 1px solid #e9ecef;
+            border-radius: 15px;
+            padding: 15px;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        .adv-row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 10px;
+            font-size: 17px;
+            color: #444;
+            font-weight: bold;
+        }
+        .adv-row:last-child { margin-bottom: 0; }
+
+        /* 輸入框 */
+        input.main-input {
+            width: 100%;
+            padding: 12px;
+            font-size: 28px;
+            border: 3px solid #3498db; 
+            border-radius: 12px;
+            text-align: center;
+            outline: none;
+            box-sizing: border-box;
+            background-color: rgba(255, 255, 255, 0.9); 
+            font-weight: bold;
+            color: #111;
+        }
+        input.main-input:focus {
+            border-color: #e74c3c;
+            box-shadow: 0 0 8px rgba(231, 76, 60, 0.3);
+        }
+
+        /* 獲利結果框 */
+        .profit-box {
+            padding: 15px; 
+            border-radius: 15px;
+            margin-top: 15px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            transition: all 0.3s;
+        }
+        .profit-highlight {
+            font-size: 34px;
+            font-weight: 900;
+            display: block;
+            margin-top: 5px;
+        }
+
+        /* 連線狀態 */
+        .status-badge {
+            background-color: #f8fafc;
+            color: #475569;
+            padding: 6px 14px;
+            border-radius: 20px;
+            font-size: 13px;
+            display: inline-flex;
+            align-items: center;
+            font-weight: bold;
+            border: 1px solid #e2e8f0;
+            margin-bottom: 20px;
+        }
+
+        /* 時間軸按鈕 */
+        .timeline-btn {
+            padding: 6px 12px;
+            border-radius: 20px;
+            border: 2px solid #cbd5e1;
+            background-color: white;
+            font-size: 14px;
+            font-weight: bold;
+            color: #475569;
+            transition: all 0.2s;
+        }
+        .timeline-btn.active {
+            background-color: #E60012;
+            color: white;
+            border-color: #E60012;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container-box">
+        
+        <div class="brand-header">
+            <img src="logo.png" alt="團隊LOGO" class="brand-logo" onerror="this.style.display='none'">
+            <div class="brand-text">
+                <h1>永豐全方way</h1>
+                <h2>股票申購預估</h2>
+            </div>
+        </div>
+
+        <div class="text-center">
+            <div id="status-badge" class="status-badge shadow-sm">
+                <span class="flex w-2.5 h-2.5 bg-gray-400 rounded-full mr-2 animate-pulse"></span>
+                連線同步中...
+            </div>
+        </div>
+
+        <div id="lottery-container">
+            <div class="text-center text-gray-500 py-10 font-bold">即時資料連線中...</div>
+        </div>
+
+        <div class="mt-4 mb-8">
+            <div class="flex items-center mb-3">
+                <svg class="w-6 h-6 text-brandRed mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"></path></svg>
+                <h3 class="text-xl font-black text-gray-800">專屬申購時程</h3>
+            </div>
+            
+            <div id="timeline-buttons" class="flex flex-wrap gap-2 mb-5"></div>
+
+            <div class="adv-panel !p-4">
+                <ul class="space-y-5 relative before:absolute before:inset-0 before:ml-4 before:-translate-x-px before:h-full before:w-0.5 before:bg-gradient-to-b before:from-brandRed before:via-gray-300 before:to-transparent">
+                    <li class="relative flex items-start">
+                        <div class="w-8 h-8 rounded-full bg-brandRed text-white flex items-center justify-center font-bold text-xs shrink-0 z-10 ring-4 ring-gray-50 mt-1">1</div>
+                        <div class="ml-4 w-full">
+                            <h4 class="font-bold text-gray-800 text-[15px]">申購截止 <span id="tl-end-date" class="text-brandRed ml-1 bg-red-50 px-1.5 py-0.5 rounded text-xs">請選擇</span></h4>
+                            <p class="text-xs text-gray-500 mt-1">下午 2:00 前按申購</p>
+                        </div>
+                    </li>
+                    <li class="relative flex items-start">
+                        <div class="w-8 h-8 rounded-full bg-brandBlue text-white flex items-center justify-center font-bold text-xs shrink-0 z-10 ring-4 ring-gray-50 mt-1">2</div>
+                        <div class="ml-4 w-full">
+                            <h4 class="font-bold text-gray-800 text-[15px]">準備扣款 <span id="tl-cost" class="text-brandBlue ml-1 font-bold"></span></h4>
+                            <p class="text-xs text-gray-500 mt-1">含手續費與郵寄費</p>
+                        </div>
+                    </li>
+                    <li class="relative flex items-start">
+                        <div class="w-8 h-8 rounded-full bg-gray-600 text-white flex items-center justify-center font-bold text-xs shrink-0 z-10 ring-4 ring-gray-50 mt-1">3</div>
+                        <div class="ml-4 w-full">
+                            <h4 class="font-bold text-gray-800 text-[15px]">抽籤日 <span id="tl-lottery-date" class="text-gray-600 ml-1 bg-gray-100 px-1.5 py-0.5 rounded text-xs">請選擇</span></h4>
+                            <p class="text-xs text-gray-500 mt-1">APP查詢是否中籤</p>
+                        </div>
+                    </li>
+                    <li class="relative flex items-start">
+                        <div class="w-8 h-8 rounded-full bg-gray-300 text-gray-700 flex items-center justify-center font-bold text-xs shrink-0 z-10 ring-4 ring-gray-50 mt-1">4</div>
+                        <div class="ml-4 w-full">
+                            <h4 class="font-bold text-gray-800 text-[15px]">退款日</h4>
+                            <p class="text-xs text-gray-500 mt-1">未中籤退回 <span id="tl-refund-cost" class="font-bold text-gray-700"></span></p>
+                        </div>
+                    </li>
+                    <li class="relative flex items-start">
+                        <div class="w-8 h-8 rounded-full bg-twBuy text-white flex items-center justify-center font-bold text-xs shrink-0 z-10 ring-4 ring-gray-50 mt-1">5</div>
+                        <div class="ml-4 w-full">
+                            <h4 class="font-bold text-gray-800 text-[15px]">撥券日 <span id="tl-disburse-date" class="text-twBuy ml-1 bg-red-50 px-1.5 py-0.5 rounded text-xs">請選擇</span></h4>
+                            <p class="text-xs text-gray-500 mt-1">發放股票，開盤即可賣出</p>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="mt-8 border-t-2 border-gray-100 pt-8">
+            <div class="text-center mb-6">
+                <h2 class="text-2xl font-black text-brandBlue">打開大戶投 APP</h2>
+                <p class="text-gray-500 font-bold mt-1">三步驟快速完成申購</p>
+            </div>
+            
+            <div class="space-y-8">
+                <div class="text-center">
+                    <div class="inline-flex w-8 h-8 bg-brandRed text-white rounded-full items-center justify-center font-bold mb-2">1</div>
+                    <h4 class="font-bold text-gray-800 text-lg">進入申購專區</h4>
+                    <div class="w-full h-[400px] bg-gray-100 rounded-xl border border-gray-200 p-2 overflow-hidden mx-auto mt-3">
+                        <img src="/static/step1.jpg" alt="步驟一" onerror="this.src='https://via.placeholder.com/250x450/cbd5e1/64748b?text=APP截圖1'" class="w-full h-full object-contain rounded-lg">
+                    </div>
+                </div>
+                <div class="text-center">
+                    <div class="inline-flex w-8 h-8 bg-brandRed text-white rounded-full items-center justify-center font-bold mb-2">2</div>
+                    <h4 class="font-bold text-gray-800 text-lg">選擇目標標的</h4>
+                    <div class="w-full h-[400px] bg-gray-100 rounded-xl border border-gray-200 p-2 overflow-hidden mx-auto mt-3">
+                        <img src="/static/step2.jpg" alt="步驟二" onerror="this.src='https://via.placeholder.com/250x450/cbd5e1/64748b?text=APP截圖2'" class="w-full h-full object-contain rounded-lg">
+                    </div>
+                </div>
+                <div class="text-center">
+                    <div class="inline-flex w-8 h-8 bg-brandRed text-white rounded-full items-center justify-center font-bold mb-2">3</div>
+                    <h4 class="font-bold text-gray-800 text-lg">確認申購等待中籤</h4>
+                    <div class="w-full h-[400px] bg-gray-100 rounded-xl border border-gray-200 p-2 overflow-hidden mx-auto mt-3">
+                        <img src="/static/step3.jpg" alt="步驟三" onerror="this.src='https://via.placeholder.com/250x450/cbd5e1/64748b?text=APP截圖3'" class="w-full h-full object-contain rounded-lg">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        let globalStockData = []; 
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                const response = await fetch('data.json');
+                const result = await response.json();
+                
+                if (result.status === 'success') {
+                    const badge = document.getElementById('status-badge');
+                    if (result.data.source === 'github_actions') {
+                        badge.innerHTML = '<span class="flex w-2.5 h-2.5 bg-green-500 rounded-full mr-2"></span> <span class="text-green-700">資料來源：證交所即時連線</span>';
+                        badge.style.backgroundColor = '#f0fdf4';
+                        badge.style.borderColor = '#bbf7d0';
+                    } else if (result.data.source === 'local_csv') {
+                        badge.innerHTML = '<span class="flex w-2.5 h-2.5 bg-yellow-500 rounded-full mr-2"></span> <span class="text-yellow-700">資料來源：本地備援資料</span>';
+                        badge.style.backgroundColor = '#fefce8';
+                        badge.style.borderColor = '#fef08a';
+                    }
+
+                    globalStockData = result.data.list;
+                    renderCards(globalStockData);
+                    renderTimelineButtons(globalStockData);
+                }
+            } catch (error) {
+                document.getElementById('lottery-container').innerHTML = '<div class="text-center text-red-500 py-10 font-bold">資料載入失敗，請確認後端伺服器。</div>';
+            }
+        });
+
+        function renderCards(data) {
+            const container = document.getElementById('lottery-container');
+            container.innerHTML = ''; 
+
+            if (data.length === 0) {
+                container.innerHTML = '<div class="text-center text-gray-500 py-10 font-bold">目前無開放申購股票</div>';
+                return;
+            }
+
+            data.forEach((stock, index) => {
+                const card = document.createElement('div');
+                card.className = "adv-panel mb-8 relative z-10 !p-0 overflow-hidden"; // 套用 adv-panel 外框
+                
+                const pricePlaceholder = stock.currentPrice > 0 ? stock.currentPrice : "";
+                
+                let priceHint = "此檔無市價，請自行預估";
+                let priceColorClass = "text-gray-400";
+                if (stock.currentPrice > 0) {
+                    if (stock.isEmerging) {
+                        priceHint = "⚠️ 興櫃均價(略有落差)";
+                        priceColorClass = "text-yellow-600";
+                    } else {
+                        priceHint = "已帶入最新收盤價";
+                        priceColorClass = "text-blue-500";
+                    }
+                }
+                
+                const deductionAmount = stock.subPrice * stock.shares + 70;
+
+                card.innerHTML = `
+                    <div class="p-4 bg-white border-b border-gray-200">
+                        <div class="flex justify-between items-center mb-1">
+                            <div>
+                                <span class="text-2xl font-black text-gray-900">${stock.name}</span>
+                                <span class="text-gray-500 font-bold ml-1">${stock.code}</span>
+                            </div>
+                            <span class="px-2 py-1 bg-gray-100 text-gray-600 text-xs rounded-lg font-bold">${stock.market}</span>
+                        </div>
+                    </div>
+                    
+                    <div class="p-4 space-y-3 bg-gray-50">
+                        <div class="adv-row">
+                            <span class="text-gray-500">申購價</span> 
+                            <span class="font-black text-brandBlue text-xl">$${stock.subPrice}</span>
+                        </div>
+                        <div class="adv-row">
+                            <span class="text-gray-500">扣款價金</span> 
+                            <span class="font-black text-brandBlue">NT$ ${deductionAmount.toLocaleString()}</span>
+                        </div>
+                        <div class="adv-row">
+                            <span class="text-gray-500">申購股數</span> 
+                            <span class="text-gray-800">${stock.shares} 股</span>
+                        </div>
+                        <div class="adv-row">
+                            <span class="text-gray-500">申購期間</span> 
+                            <span class="text-gray-800 text-[15px]">${stock.startDate} ~ ${stock.endDate}</span>
+                        </div>
+                    </div>
+
+                    <div class="p-4 bg-white border-t border-gray-200">
+                        <div class="flex justify-between items-end mb-2">
+                            <label class="block text-[17px] font-bold text-brandBlue">目前市價 (預估)</label>
+                            <span class="text-xs font-bold ${priceColorClass}">${priceHint}</span>
+                        </div>
+                        
+                        <input type="number" id="market-price-${index}" value="${pricePlaceholder}" class="main-input" placeholder="輸入市價...">
+                        
+                        <div class="profit-box bg-gray-100 text-gray-600" id="result-box-${index}">
+                            <span class="text-sm block mb-1">預估潛在獲利 (未扣20元手續費)</span>
+                            <span class="profit-highlight" id="profit-val-${index}">等待輸入</span>
+                            <span class="text-sm mt-1 block font-normal" id="rate-val-${index}">-</span>
+                        </div>
+                    </div>
+                `;
+                container.appendChild(card);
+
+                const inputEl = document.getElementById(`market-price-${index}`);
+                if (stock.currentPrice > 0) calculateProfit(stock.currentPrice, stock.subPrice, stock.shares, index);
+                
+                inputEl.addEventListener('input', (e) => calculateProfit(e.target.value, stock.subPrice, stock.shares, index));
+            });
+        }
+
+        function renderTimelineButtons(data) {
+            const btnContainer = document.getElementById('timeline-buttons');
+            btnContainer.innerHTML = '';
+            
+            if (data.length === 0) return;
+
+            data.forEach((stock, index) => {
+                const btn = document.createElement('button');
+                btn.className = "timeline-btn";
+                btn.textContent = `${stock.name}`;
+                btn.onclick = () => updateTimeline(index, btn);
+                btnContainer.appendChild(btn);
+            });
+        }
+
+        function updateTimeline(index, clickedBtn) {
+            const stock = globalStockData[index];
+            const deductionAmount = stock.subPrice * stock.shares + 70;
+            const refundAmount = deductionAmount - 20;
+
+            document.getElementById('tl-end-date').textContent = stock.endDate;
+            document.getElementById('tl-cost').textContent = `NT$ ${deductionAmount.toLocaleString()}`;
+            document.getElementById('tl-lottery-date').textContent = stock.lotteryDate;
+            document.getElementById('tl-refund-cost').textContent = `NT$ ${refundAmount.toLocaleString()}`;
+            document.getElementById('tl-disburse-date').textContent = stock.disburseDate;
+
+            const buttons = document.getElementById('timeline-buttons').children;
+            for(let btn of buttons) {
+                btn.classList.remove('active');
+            }
+            clickedBtn.classList.add('active');
+        }
+
+        function calculateProfit(marketPrice, subPrice, shares, index) {
+            const mPrice = parseFloat(marketPrice);
+            const pBox = document.getElementById(`result-box-${index}`);
+            const pVal = document.getElementById(`profit-val-${index}`);
+            const rVal = document.getElementById(`rate-val-${index}`);
+
+            if (isNaN(mPrice) || mPrice <= 0) {
+                pBox.className = "profit-box bg-gray-100 text-gray-600";
+                pVal.textContent = "等待輸入";
+                rVal.textContent = "-";
+                return;
+            }
+
+            const profit = (mPrice - subPrice) * shares;
+            const rate = ((mPrice - subPrice) / subPrice) * 100;
+
+            if (profit > 0) {
+                // 賺錢：損益機的紅底白字
+                pBox.className = "profit-box";
+                pBox.style.backgroundColor = "#ff7675"; 
+                pBox.style.color = "white";
+                pVal.textContent = `+ $${Math.round(profit).toLocaleString()}`;
+                rVal.textContent = `溢價差：+${rate.toFixed(2)}%`;
+            } else if (profit < 0) {
+                // 賠錢：損益機的綠底黑字
+                pBox.className = "profit-box";
+                pBox.style.backgroundColor = "#55efc4"; 
+                pBox.style.color = "#2d3436";
+                pVal.textContent = `- $${Math.abs(Math.round(profit)).toLocaleString()}`;
+                rVal.textContent = `⚠️ 跌破承銷價 (${rate.toFixed(2)}%)`;
+            } else {
+                // 打平
+                pBox.className = "profit-box bg-gray-200 text-gray-700";
+                pBox.style.backgroundColor = "#dfe6e9";
+                pBox.style.color = "#333";
+                pVal.textContent = `$0`;
+                rVal.textContent = `無價差`;
+            }
+        }
+    </script>
+</body>
+</html>
