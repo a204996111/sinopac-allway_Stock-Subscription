@@ -1,0 +1,48 @@
+{
+    "status": "success",
+    "data": {
+        "source": "github_actions",
+        "update_time": "2026-04-05 13:34",
+        "list": [
+            {
+                "name": "創新服務",
+                "code": "7828",
+                "market": "初上櫃",
+                "startDate": "115/04/10",
+                "endDate": "115/04/14",
+                "lotteryDate": "115/04/16",
+                "disburseDate": "115/04/22",
+                "subPrice": 628.0,
+                "shares": 1000,
+                "currentPrice": 1285.0,
+                "isEmerging": true
+            },
+            {
+                "name": "神數",
+                "code": "7821",
+                "market": "初上市",
+                "startDate": "115/04/08",
+                "endDate": "115/04/10",
+                "lotteryDate": "115/04/14",
+                "disburseDate": "115/04/20",
+                "subPrice": 38.5,
+                "shares": 1000,
+                "currentPrice": 62.8,
+                "isEmerging": true
+            },
+            {
+                "name": "亞元",
+                "code": "6109",
+                "market": "上櫃增資",
+                "startDate": "115/04/02",
+                "endDate": "115/04/08",
+                "lotteryDate": "115/04/10",
+                "disburseDate": "115/04/20",
+                "subPrice": 10.3,
+                "shares": 1000,
+                "currentPrice": 12.45,
+                "isEmerging": false
+            }
+        ]
+    }
+}
