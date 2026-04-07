@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-06 15:54",
+        "update_time": "2026-04-07 11:51",
         "list": [
             {
                 "name": "創新服務",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/04/22",
                 "subPrice": 628.0,
                 "shares": 1000,
-                "currentPrice": 1285.0,
+                "currentPrice": 1330.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,20 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 38.5,
                 "shares": 1000,
-                "currentPrice": 62.8,
+                "currentPrice": 64.7,
+                "isEmerging": true
+            },
+            {
+                "name": "宏碁智新",
+                "code": "7794",
+                "market": "初上櫃",
+                "startDate": "115/04/08",
+                "endDate": "115/04/10",
+                "lotteryDate": "115/04/14",
+                "disburseDate": "115/04/20",
+                "subPrice": 31.0,
+                "shares": 1000,
+                "currentPrice": 50.5,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 10.3,
                 "shares": 1000,
-                "currentPrice": 12.45,
+                "currentPrice": 12.0,
                 "isEmerging": false
             }
         ]
