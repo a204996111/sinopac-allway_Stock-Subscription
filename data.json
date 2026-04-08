@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-07 15:41",
+        "update_time": "2026-04-08 11:53",
         "list": [
             {
                 "name": "創新服務",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/04/22",
                 "subPrice": 628.0,
                 "shares": 1000,
-                "currentPrice": 1325.0,
+                "currentPrice": 1395.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 38.5,
                 "shares": 1000,
-                "currentPrice": 64.0,
+                "currentPrice": 65.9,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 10.3,
                 "shares": 1000,
-                "currentPrice": 11.85,
+                "currentPrice": 11.9,
                 "isEmerging": false
             }
         ]
