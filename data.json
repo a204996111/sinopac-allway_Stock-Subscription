@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-08 11:53",
+        "update_time": "2026-04-08 15:45",
         "list": [
+            {
+                "name": "立盈",
+                "code": "7820",
+                "market": "初上櫃",
+                "startDate": "115/04/15",
+                "endDate": "115/04/17",
+                "lotteryDate": "115/04/21",
+                "disburseDate": "115/04/27",
+                "subPrice": 120.0,
+                "shares": 1000,
+                "currentPrice": 196.0,
+                "isEmerging": true
+            },
             {
                 "name": "創新服務",
                 "code": "7828",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/04/22",
                 "subPrice": 628.0,
                 "shares": 1000,
-                "currentPrice": 1395.0,
+                "currentPrice": 1405.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 38.5,
                 "shares": 1000,
-                "currentPrice": 65.9,
+                "currentPrice": 65.1,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 31.0,
                 "shares": 1000,
-                "currentPrice": 50.5,
+                "currentPrice": 52.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 10.3,
                 "shares": 1000,
-                "currentPrice": 11.9,
+                "currentPrice": 11.85,
                 "isEmerging": false
             }
         ]
