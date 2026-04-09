@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-09 11:50",
+        "update_time": "2026-04-09 15:47",
         "list": [
+            {
+                "name": "享溫馨",
+                "code": "7760",
+                "market": "初上市",
+                "startDate": "115/04/16",
+                "endDate": "115/04/20",
+                "lotteryDate": "115/04/22",
+                "disburseDate": "115/04/28",
+                "subPrice": 30.0,
+                "shares": 1000,
+                "currentPrice": 40.25,
+                "isEmerging": true
+            },
             {
                 "name": "立盈",
                 "code": "7820",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 194.5,
+                "currentPrice": 192.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 38.5,
                 "shares": 1000,
-                "currentPrice": 65.9,
+                "currentPrice": 66.9,
                 "isEmerging": true
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/04/20",
                 "subPrice": 31.0,
                 "shares": 1000,
-                "currentPrice": 48.5,
+                "currentPrice": 49.9,
                 "isEmerging": true
             }
         ]
