@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-10 15:51",
+        "update_time": "2026-04-11 11:39",
         "list": [
             {
                 "name": "享溫馨",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 185.0,
+                "currentPrice": 184.0,
                 "isEmerging": true
             },
             {
@@ -41,32 +41,6 @@
                 "subPrice": 628.0,
                 "shares": 1000,
                 "currentPrice": 1395.0,
-                "isEmerging": true
-            },
-            {
-                "name": "神數",
-                "code": "7821",
-                "market": "初上市",
-                "startDate": "115/04/08",
-                "endDate": "115/04/10",
-                "lotteryDate": "115/04/14",
-                "disburseDate": "115/04/20",
-                "subPrice": 38.5,
-                "shares": 1000,
-                "currentPrice": 66.8,
-                "isEmerging": true
-            },
-            {
-                "name": "宏碁智新",
-                "code": "7794",
-                "market": "初上櫃",
-                "startDate": "115/04/08",
-                "endDate": "115/04/10",
-                "lotteryDate": "115/04/14",
-                "disburseDate": "115/04/20",
-                "subPrice": 31.0,
-                "shares": 1000,
-                "currentPrice": 49.3,
                 "isEmerging": true
             }
         ]
