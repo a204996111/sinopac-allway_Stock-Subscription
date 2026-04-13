@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-12 15:23",
+        "update_time": "2026-04-13 12:23",
         "list": [
             {
                 "name": "享溫馨",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/04/28",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 38.7,
+                "currentPrice": 39.15,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 184.0,
+                "currentPrice": 170.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/04/22",
                 "subPrice": 628.0,
                 "shares": 1000,
-                "currentPrice": 1395.0,
+                "currentPrice": 1345.0,
                 "isEmerging": true
             }
         ]
