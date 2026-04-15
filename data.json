@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-14 15:57",
+        "update_time": "2026-04-15 12:11",
         "list": [
             {
                 "name": "永笙-KY",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/04/30",
                 "subPrice": 21.08,
                 "shares": 1000,
-                "currentPrice": 26.45,
+                "currentPrice": 25.9,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/04/28",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 38.3,
+                "currentPrice": 37.15,
                 "isEmerging": true
             },
             {
@@ -40,20 +40,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 172.0,
-                "isEmerging": true
-            },
-            {
-                "name": "創新服務",
-                "code": "7828",
-                "market": "初上櫃",
-                "startDate": "115/04/10",
-                "endDate": "115/04/14",
-                "lotteryDate": "115/04/16",
-                "disburseDate": "115/04/22",
-                "subPrice": 628.0,
-                "shares": 1000,
-                "currentPrice": 1315.0,
+                "currentPrice": 177.0,
                 "isEmerging": true
             }
         ]
