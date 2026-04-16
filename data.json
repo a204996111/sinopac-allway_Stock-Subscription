@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-15 15:58",
+        "update_time": "2026-04-16 12:17",
         "list": [
             {
                 "name": "永笙-KY",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/04/28",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 36.75,
+                "currentPrice": 37.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 175.0,
+                "currentPrice": 180.5,
                 "isEmerging": true
             }
         ]
