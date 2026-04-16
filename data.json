@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-16 12:17",
+        "update_time": "2026-04-16 15:57",
         "list": [
+            {
+                "name": "敘豐",
+                "code": "3485",
+                "market": "初上櫃",
+                "startDate": "115/04/23",
+                "endDate": "115/04/27",
+                "lotteryDate": "115/04/29",
+                "disburseDate": "115/05/06",
+                "subPrice": 128.0,
+                "shares": 1000,
+                "currentPrice": 277.0,
+                "isEmerging": true
+            },
             {
                 "name": "永笙-KY",
                 "code": "4178",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/04/30",
                 "subPrice": 21.08,
                 "shares": 1000,
-                "currentPrice": 25.9,
+                "currentPrice": 25.85,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/04/28",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 37.0,
+                "currentPrice": 37.45,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 180.5,
+                "currentPrice": 184.0,
                 "isEmerging": true
             }
         ]
