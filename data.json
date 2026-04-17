@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-17 12:14",
+        "update_time": "2026-04-17 15:59",
         "list": [
+            {
+                "name": "頌勝科技",
+                "code": "7768",
+                "market": "初上市",
+                "startDate": "115/04/24",
+                "endDate": "115/04/28",
+                "lotteryDate": "115/04/30",
+                "disburseDate": "115/05/07",
+                "subPrice": 258.0,
+                "shares": 1000,
+                "currentPrice": 442.5,
+                "isEmerging": true
+            },
             {
                 "name": "敘豐",
                 "code": "3485",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/05/06",
                 "subPrice": 128.0,
                 "shares": 1000,
-                "currentPrice": 300.0,
+                "currentPrice": 307.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/04/30",
                 "subPrice": 21.08,
                 "shares": 1000,
-                "currentPrice": 26.0,
+                "currentPrice": 25.8,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/04/28",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 36.8,
+                "currentPrice": 35.45,
                 "isEmerging": true
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/04/27",
                 "subPrice": 120.0,
                 "shares": 1000,
-                "currentPrice": 181.5,
+                "currentPrice": 182.5,
                 "isEmerging": true
             }
         ]
