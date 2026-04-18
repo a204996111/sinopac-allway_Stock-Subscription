@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-17 15:59",
+        "update_time": "2026-04-18 11:50",
         "list": [
             {
                 "name": "頌勝科技",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/06",
                 "subPrice": 128.0,
                 "shares": 1000,
-                "currentPrice": 307.5,
+                "currentPrice": 296.5,
                 "isEmerging": true
             },
             {
@@ -54,19 +54,6 @@
                 "subPrice": 30.0,
                 "shares": 1000,
                 "currentPrice": 35.45,
-                "isEmerging": true
-            },
-            {
-                "name": "立盈",
-                "code": "7820",
-                "market": "初上櫃",
-                "startDate": "115/04/15",
-                "endDate": "115/04/17",
-                "lotteryDate": "115/04/21",
-                "disburseDate": "115/04/27",
-                "subPrice": 120.0,
-                "shares": 1000,
-                "currentPrice": 182.5,
                 "isEmerging": true
             }
         ]
