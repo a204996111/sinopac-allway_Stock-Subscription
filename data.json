@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-20 12:22",
+        "update_time": "2026-04-20 16:20",
         "list": [
+            {
+                "name": "耀穎",
+                "code": "7772",
+                "market": "初上櫃",
+                "startDate": "115/04/27",
+                "endDate": "115/04/29",
+                "lotteryDate": "115/05/04",
+                "disburseDate": "115/05/08",
+                "subPrice": 53.0,
+                "shares": 1000,
+                "currentPrice": 0.0,
+                "isEmerging": true
+            },
             {
                 "name": "頌勝科技",
                 "code": "7768",
