@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-19 15:39",
+        "update_time": "2026-04-20 12:22",
         "list": [
             {
                 "name": "頌勝科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/07",
                 "subPrice": 258.0,
                 "shares": 1000,
-                "currentPrice": 442.5,
+                "currentPrice": 0.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/06",
                 "subPrice": 128.0,
                 "shares": 1000,
-                "currentPrice": 296.5,
+                "currentPrice": 0.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/04/30",
                 "subPrice": 21.08,
                 "shares": 1000,
-                "currentPrice": 25.8,
+                "currentPrice": 0.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/04/28",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 35.45,
+                "currentPrice": 0.0,
                 "isEmerging": true
             }
         ]
