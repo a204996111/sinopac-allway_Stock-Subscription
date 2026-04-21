@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-21 12:14",
+        "update_time": "2026-04-21 16:03",
         "list": [
+            {
+                "name": "基米",
+                "code": "4195",
+                "market": "創新板初上市",
+                "startDate": "115/04/28",
+                "endDate": "115/04/30",
+                "lotteryDate": "115/05/05",
+                "disburseDate": "115/05/11",
+                "subPrice": 22.2,
+                "shares": 1000,
+                "currentPrice": 31.75,
+                "isEmerging": true
+            },
+            {
+                "name": "天能綠電",
+                "code": "7842",
+                "market": "初上櫃",
+                "startDate": "115/04/28",
+                "endDate": "115/04/30",
+                "lotteryDate": "115/05/05",
+                "disburseDate": "115/05/11",
+                "subPrice": 108.0,
+                "shares": 1000,
+                "currentPrice": 152.5,
+                "isEmerging": true
+            },
             {
                 "name": "耀穎",
                 "code": "7772",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/05/08",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 305.5,
+                "currentPrice": 318.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +53,7 @@
                 "disburseDate": "115/05/07",
                 "subPrice": 258.0,
                 "shares": 1000,
-                "currentPrice": 486.5,
+                "currentPrice": 488.5,
                 "isEmerging": true
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/05/06",
                 "subPrice": 128.0,
                 "shares": 1000,
-                "currentPrice": 366.5,
+                "currentPrice": 369.5,
                 "isEmerging": true
             },
             {
@@ -53,7 +79,7 @@
                 "disburseDate": "115/04/30",
                 "subPrice": 21.08,
                 "shares": 1000,
-                "currentPrice": 24.8,
+                "currentPrice": 25.8,
                 "isEmerging": true
             }
         ]
