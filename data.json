@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-22 15:59",
+        "update_time": "2026-04-23 12:15",
         "list": [
             {
                 "name": "基米",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 22.2,
                 "shares": 1000,
-                "currentPrice": 29.2,
+                "currentPrice": 28.9,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 157.5,
+                "currentPrice": 168.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/05/08",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 274.5,
+                "currentPrice": 221.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/05/07",
                 "subPrice": 258.0,
                 "shares": 1000,
-                "currentPrice": 461.0,
+                "currentPrice": 428.5,
                 "isEmerging": true
             },
             {
@@ -66,20 +66,7 @@
                 "disburseDate": "115/05/06",
                 "subPrice": 128.0,
                 "shares": 1000,
-                "currentPrice": 373.0,
-                "isEmerging": true
-            },
-            {
-                "name": "永笙-KY",
-                "code": "4178",
-                "market": "第一上市公司初上市",
-                "startDate": "115/04/20",
-                "endDate": "115/04/22",
-                "lotteryDate": "115/04/24",
-                "disburseDate": "115/04/30",
-                "subPrice": 21.08,
-                "shares": 1000,
-                "currentPrice": 24.9,
+                "currentPrice": 329.0,
                 "isEmerging": true
             }
         ]
