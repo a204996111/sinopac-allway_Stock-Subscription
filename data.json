@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-27 12:33",
+        "update_time": "2026-04-27 16:35",
         "list": [
             {
                 "name": "基米",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 22.2,
                 "shares": 1000,
-                "currentPrice": 28.95,
+                "currentPrice": 29.75,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 160.0,
+                "currentPrice": 159.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/05/08",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 204.0,
+                "currentPrice": 201.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/05/07",
                 "subPrice": 258.0,
                 "shares": 1000,
-                "currentPrice": 414.0,
+                "currentPrice": 415.0,
                 "isEmerging": true
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/05/06",
                 "subPrice": 128.0,
                 "shares": 1000,
-                "currentPrice": 308.5,
+                "currentPrice": 318.5,
                 "isEmerging": true
             }
         ]
