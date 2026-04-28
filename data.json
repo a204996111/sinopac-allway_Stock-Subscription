@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-28 12:37",
+        "update_time": "2026-04-28 16:34",
         "list": [
+            {
+                "name": "溢泰實業",
+                "code": "7818",
+                "market": "初上市",
+                "startDate": "115/05/06",
+                "endDate": "115/05/08",
+                "lotteryDate": "115/05/12",
+                "disburseDate": "115/05/18",
+                "subPrice": 70.0,
+                "shares": 1000,
+                "currentPrice": 115.0,
+                "isEmerging": true
+            },
             {
                 "name": "基米",
                 "code": "4195",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 22.2,
                 "shares": 1000,
-                "currentPrice": 28.85,
+                "currentPrice": 30.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 156.0,
+                "currentPrice": 157.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/05/08",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 212.0,
+                "currentPrice": 231.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/05/07",
                 "subPrice": 258.0,
                 "shares": 1000,
-                "currentPrice": 438.0,
+                "currentPrice": 443.0,
                 "isEmerging": true
             }
         ]
