@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-27 16:35",
+        "update_time": "2026-04-28 12:37",
         "list": [
             {
                 "name": "基米",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 22.2,
                 "shares": 1000,
-                "currentPrice": 29.75,
+                "currentPrice": 28.85,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 159.0,
+                "currentPrice": 156.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/05/08",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 201.0,
+                "currentPrice": 212.0,
                 "isEmerging": true
             },
             {
@@ -53,20 +53,7 @@
                 "disburseDate": "115/05/07",
                 "subPrice": 258.0,
                 "shares": 1000,
-                "currentPrice": 415.0,
-                "isEmerging": true
-            },
-            {
-                "name": "敘豐",
-                "code": "3485",
-                "market": "初上櫃",
-                "startDate": "115/04/23",
-                "endDate": "115/04/27",
-                "lotteryDate": "115/04/29",
-                "disburseDate": "115/05/06",
-                "subPrice": 128.0,
-                "shares": 1000,
-                "currentPrice": 318.5,
+                "currentPrice": 438.0,
                 "isEmerging": true
             }
         ]
