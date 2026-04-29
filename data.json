@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-29 12:32",
+        "update_time": "2026-04-29 16:27",
         "list": [
             {
                 "name": "溢泰實業",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/18",
                 "subPrice": 70.0,
                 "shares": 1000,
-                "currentPrice": 112.0,
+                "currentPrice": 111.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 22.2,
                 "shares": 1000,
-                "currentPrice": 29.3,
+                "currentPrice": 29.75,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 153.0,
+                "currentPrice": 152.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/05/08",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 241.0,
+                "currentPrice": 249.0,
                 "isEmerging": true
             }
         ]
