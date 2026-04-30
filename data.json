@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-29 16:27",
+        "update_time": "2026-04-30 12:35",
         "list": [
             {
                 "name": "溢泰實業",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/18",
                 "subPrice": 70.0,
                 "shares": 1000,
-                "currentPrice": 111.0,
+                "currentPrice": 110.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 22.2,
                 "shares": 1000,
-                "currentPrice": 29.75,
+                "currentPrice": 29.45,
                 "isEmerging": true
             },
             {
@@ -40,20 +40,7 @@
                 "disburseDate": "115/05/11",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 152.0,
-                "isEmerging": true
-            },
-            {
-                "name": "耀穎",
-                "code": "7772",
-                "market": "初上櫃",
-                "startDate": "115/04/27",
-                "endDate": "115/04/29",
-                "lotteryDate": "115/05/04",
-                "disburseDate": "115/05/08",
-                "subPrice": 53.0,
-                "shares": 1000,
-                "currentPrice": 249.0,
+                "currentPrice": 154.5,
                 "isEmerging": true
             }
         ]
