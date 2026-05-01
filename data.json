@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-04-30 16:30",
+        "update_time": "2026-05-01 12:52",
         "list": [
             {
                 "name": "溢泰實業",
@@ -14,33 +14,7 @@
                 "disburseDate": "115/05/18",
                 "subPrice": 70.0,
                 "shares": 1000,
-                "currentPrice": 110.0,
-                "isEmerging": true
-            },
-            {
-                "name": "基米",
-                "code": "4195",
-                "market": "創新板初上市",
-                "startDate": "115/04/28",
-                "endDate": "115/04/30",
-                "lotteryDate": "115/05/05",
-                "disburseDate": "115/05/11",
-                "subPrice": 22.2,
-                "shares": 1000,
-                "currentPrice": 29.75,
-                "isEmerging": true
-            },
-            {
-                "name": "天能綠電",
-                "code": "7842",
-                "market": "初上櫃",
-                "startDate": "115/04/28",
-                "endDate": "115/04/30",
-                "lotteryDate": "115/05/05",
-                "disburseDate": "115/05/11",
-                "subPrice": 108.0,
-                "shares": 1000,
-                "currentPrice": 155.0,
+                "currentPrice": 108.5,
                 "isEmerging": true
             }
         ]
