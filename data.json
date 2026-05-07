@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-07 12:37",
+        "update_time": "2026-05-07 16:42",
         "list": [
             {
                 "name": "華洋精機",
@@ -14,8 +14,21 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 85.0,
                 "shares": 1000,
-                "currentPrice": 421.0,
+                "currentPrice": 435.0,
                 "isEmerging": true
+            },
+            {
+                "name": "台汽電",
+                "code": "8926",
+                "market": "上市增資",
+                "startDate": "115/05/11",
+                "endDate": "115/05/13",
+                "lotteryDate": "115/05/15",
+                "disburseDate": "115/05/25",
+                "subPrice": 32.73,
+                "shares": 1000,
+                "currentPrice": 46.75,
+                "isEmerging": false
             },
             {
                 "name": "宏致",
@@ -27,7 +40,7 @@
                 "disburseDate": "115/05/22",
                 "subPrice": 58.0,
                 "shares": 1000,
-                "currentPrice": 87.3,
+                "currentPrice": 87.2,
                 "isEmerging": false
             },
             {
