@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-08 12:18",
+        "update_time": "2026-05-08 15:49",
         "list": [
+            {
+                "name": "精誠金融",
+                "code": "7819",
+                "market": "初上櫃",
+                "startDate": "115/05/15",
+                "endDate": "115/05/19",
+                "lotteryDate": "115/05/21",
+                "disburseDate": "115/05/27",
+                "subPrice": 50.5,
+                "shares": 1000,
+                "currentPrice": 69.9,
+                "isEmerging": true
+            },
             {
                 "name": "華洋精機",
                 "code": "6983",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 85.0,
                 "shares": 1000,
-                "currentPrice": 400.0,
+                "currentPrice": 391.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 32.73,
                 "shares": 1000,
-                "currentPrice": 48.7,
+                "currentPrice": 49.1,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/05/22",
                 "subPrice": 58.0,
                 "shares": 1000,
-                "currentPrice": 83.8,
+                "currentPrice": 83.3,
                 "isEmerging": false
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/05/18",
                 "subPrice": 70.0,
                 "shares": 1000,
-                "currentPrice": 100.0,
+                "currentPrice": 101.0,
                 "isEmerging": true
             }
         ]
