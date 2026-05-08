@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-07 16:42",
+        "update_time": "2026-05-08 12:18",
         "list": [
             {
                 "name": "華洋精機",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 85.0,
                 "shares": 1000,
-                "currentPrice": 435.0,
+                "currentPrice": 400.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 32.73,
                 "shares": 1000,
-                "currentPrice": 46.75,
+                "currentPrice": 48.7,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/05/22",
                 "subPrice": 58.0,
                 "shares": 1000,
-                "currentPrice": 87.2,
+                "currentPrice": 83.8,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/05/18",
                 "subPrice": 70.0,
                 "shares": 1000,
-                "currentPrice": 103.0,
+                "currentPrice": 100.0,
                 "isEmerging": true
             }
         ]
