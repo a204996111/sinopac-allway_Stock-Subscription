@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-12 16:48",
+        "update_time": "2026-05-13 12:52",
         "list": [
             {
                 "name": "精誠金融",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/27",
                 "subPrice": 50.5,
                 "shares": 1000,
-                "currentPrice": 64.9,
+                "currentPrice": 66.1,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 85.0,
                 "shares": 1000,
-                "currentPrice": 395.0,
+                "currentPrice": 385.0,
                 "isEmerging": true
             },
             {
@@ -40,20 +40,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 32.73,
                 "shares": 1000,
-                "currentPrice": 51.6,
-                "isEmerging": false
-            },
-            {
-                "name": "宏致",
-                "code": "3605",
-                "market": "上市增資",
-                "startDate": "115/05/08",
-                "endDate": "115/05/12",
-                "lotteryDate": "115/05/14",
-                "disburseDate": "115/05/22",
-                "subPrice": 58.0,
-                "shares": 1000,
-                "currentPrice": 81.8,
+                "currentPrice": 56.7,
                 "isEmerging": false
             }
         ]
