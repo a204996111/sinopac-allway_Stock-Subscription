@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-13 12:52",
+        "update_time": "2026-05-14 12:51",
         "list": [
             {
                 "name": "精誠金融",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/27",
                 "subPrice": 50.5,
                 "shares": 1000,
-                "currentPrice": 66.1,
+                "currentPrice": 62.7,
                 "isEmerging": true
             },
             {
@@ -27,21 +27,8 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 85.0,
                 "shares": 1000,
-                "currentPrice": 385.0,
+                "currentPrice": 392.0,
                 "isEmerging": true
-            },
-            {
-                "name": "台汽電",
-                "code": "8926",
-                "market": "上市增資",
-                "startDate": "115/05/11",
-                "endDate": "115/05/13",
-                "lotteryDate": "115/05/15",
-                "disburseDate": "115/05/25",
-                "subPrice": 32.73,
-                "shares": 1000,
-                "currentPrice": 56.7,
-                "isEmerging": false
             }
         ]
     }
