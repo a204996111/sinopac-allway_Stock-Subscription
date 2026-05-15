@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-14 16:45",
+        "update_time": "2026-05-15 12:54",
         "list": [
             {
                 "name": "精誠金融",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/05/27",
                 "subPrice": 50.5,
                 "shares": 1000,
-                "currentPrice": 62.0,
+                "currentPrice": 64.1,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/05/25",
                 "subPrice": 85.0,
                 "shares": 1000,
-                "currentPrice": 390.0,
+                "currentPrice": 396.0,
                 "isEmerging": true
             }
         ]
