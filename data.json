@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-15 16:56",
+        "update_time": "2026-05-16 12:32",
         "list": [
             {
                 "name": "精誠金融",
@@ -15,19 +15,6 @@
                 "subPrice": 50.5,
                 "shares": 1000,
                 "currentPrice": 64.0,
-                "isEmerging": true
-            },
-            {
-                "name": "華洋精機",
-                "code": "6983",
-                "market": "初上櫃",
-                "startDate": "115/05/13",
-                "endDate": "115/05/15",
-                "lotteryDate": "115/05/19",
-                "disburseDate": "115/05/25",
-                "subPrice": 85.0,
-                "shares": 1000,
-                "currentPrice": 380.0,
                 "isEmerging": true
             }
         ]
