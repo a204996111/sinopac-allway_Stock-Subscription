@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-18 18:17",
+        "update_time": "2026-05-19 13:06",
         "list": [
+            {
+                "name": "圓祥生技",
+                "code": "6945",
+                "market": "初上櫃",
+                "startDate": "115/05/26",
+                "endDate": "115/05/28",
+                "lotteryDate": "115/06/01",
+                "disburseDate": "115/06/05",
+                "subPrice": 122.0,
+                "shares": 1000,
+                "currentPrice": 167.5,
+                "isEmerging": true
+            },
+            {
+                "name": "先進光",
+                "code": "3362",
+                "market": "上櫃增資",
+                "startDate": "115/05/21",
+                "endDate": "115/05/25",
+                "lotteryDate": "115/05/27",
+                "disburseDate": "115/06/04",
+                "subPrice": 92.0,
+                "shares": 1000,
+                "currentPrice": 119.0,
+                "isEmerging": false
+            },
             {
                 "name": "精誠金融",
                 "code": "7819",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/05/27",
                 "subPrice": 50.5,
                 "shares": 1000,
-                "currentPrice": 58.3,
+                "currentPrice": 59.0,
                 "isEmerging": true
             }
         ]
