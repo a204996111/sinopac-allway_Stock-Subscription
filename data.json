@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-22 17:39",
+        "update_time": "2026-05-23 12:46",
         "list": [
             {
                 "name": "圓祥生技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/06/05",
                 "subPrice": 122.0,
                 "shares": 1000,
-                "currentPrice": 143.0,
+                "currentPrice": 145.0,
                 "isEmerging": true
             },
             {
