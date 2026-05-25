@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-24 16:38",
+        "update_time": "2026-05-25 13:24",
         "list": [
+            {
+                "name": "雷虎",
+                "code": "8033",
+                "market": "上市增資",
+                "startDate": "115/05/27",
+                "endDate": "115/05/29",
+                "lotteryDate": "115/06/02",
+                "disburseDate": "115/06/10",
+                "subPrice": 108.0,
+                "shares": 1000,
+                "currentPrice": 138.5,
+                "isEmerging": false
+            },
+            {
+                "name": "合晶",
+                "code": "6182",
+                "market": "上櫃增資",
+                "startDate": "115/05/27",
+                "endDate": "115/05/29",
+                "lotteryDate": "115/06/02",
+                "disburseDate": "115/06/10",
+                "subPrice": 27.8,
+                "shares": 1000,
+                "currentPrice": 76.8,
+                "isEmerging": false
+            },
             {
                 "name": "圓祥生技",
                 "code": "6945",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/06/05",
                 "subPrice": 122.0,
                 "shares": 1000,
-                "currentPrice": 145.0,
+                "currentPrice": 134.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +53,7 @@
                 "disburseDate": "115/06/04",
                 "subPrice": 92.0,
                 "shares": 1000,
-                "currentPrice": 120.0,
+                "currentPrice": 116.5,
                 "isEmerging": false
             }
         ]
