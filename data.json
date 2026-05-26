@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-26 13:07",
+        "update_time": "2026-05-26 18:08",
         "list": [
             {
                 "name": "雷虎",
@@ -40,7 +40,7 @@
                 "disburseDate": "115/06/05",
                 "subPrice": 122.0,
                 "shares": 1000,
-                "currentPrice": 146.5,
+                "currentPrice": 145.0,
                 "isEmerging": true
             }
         ]
