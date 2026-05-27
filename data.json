@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-26 18:08",
+        "update_time": "2026-05-27 13:21",
         "list": [
+            {
+                "name": "達人網",
+                "code": "7839",
+                "market": "初上櫃",
+                "startDate": "115/06/03",
+                "endDate": "115/06/05",
+                "lotteryDate": "115/06/09",
+                "disburseDate": "115/06/15",
+                "subPrice": 36.0,
+                "shares": 1000,
+                "currentPrice": 67.7,
+                "isEmerging": true
+            },
             {
                 "name": "雷虎",
                 "code": "8033",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/06/10",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 136.5,
+                "currentPrice": 135.0,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/06/10",
                 "subPrice": 27.8,
                 "shares": 1000,
-                "currentPrice": 84.4,
+                "currentPrice": 89.9,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/06/05",
                 "subPrice": 122.0,
                 "shares": 1000,
-                "currentPrice": 145.0,
+                "currentPrice": 128.0,
                 "isEmerging": true
             }
         ]
