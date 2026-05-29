@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-28 18:15",
+        "update_time": "2026-05-29 18:04",
         "list": [
+            {
+                "name": "立弘",
+                "code": "1780",
+                "market": "初上櫃",
+                "startDate": "115/06/05",
+                "endDate": "115/06/09",
+                "lotteryDate": "115/06/11",
+                "disburseDate": "115/06/17",
+                "subPrice": 18.88,
+                "shares": 1000,
+                "currentPrice": 33.55,
+                "isEmerging": true
+            },
             {
                 "name": "達人網",
                 "code": "7839",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/06/15",
                 "subPrice": 36.0,
                 "shares": 1000,
-                "currentPrice": 64.9,
+                "currentPrice": 66.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/06/10",
                 "subPrice": 108.0,
                 "shares": 1000,
-                "currentPrice": 135.0,
+                "currentPrice": 143.0,
                 "isEmerging": false
             },
             {
@@ -40,21 +53,8 @@
                 "disburseDate": "115/06/10",
                 "subPrice": 27.8,
                 "shares": 1000,
-                "currentPrice": 90.7,
+                "currentPrice": 99.5,
                 "isEmerging": false
-            },
-            {
-                "name": "圓祥生技",
-                "code": "6945",
-                "market": "初上櫃",
-                "startDate": "115/05/26",
-                "endDate": "115/05/28",
-                "lotteryDate": "115/06/01",
-                "disburseDate": "115/06/05",
-                "subPrice": 122.0,
-                "shares": 1000,
-                "currentPrice": 122.0,
-                "isEmerging": true
             }
         ]
     }
