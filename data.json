@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-05-29 18:04",
+        "update_time": "2026-05-30 12:55",
         "list": [
             {
                 "name": "立弘",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/06/17",
                 "subPrice": 18.88,
                 "shares": 1000,
-                "currentPrice": 33.55,
+                "currentPrice": 33.45,
                 "isEmerging": true
             },
             {
@@ -27,34 +27,8 @@
                 "disburseDate": "115/06/15",
                 "subPrice": 36.0,
                 "shares": 1000,
-                "currentPrice": 66.5,
+                "currentPrice": 65.0,
                 "isEmerging": true
-            },
-            {
-                "name": "雷虎",
-                "code": "8033",
-                "market": "上市增資",
-                "startDate": "115/05/27",
-                "endDate": "115/05/29",
-                "lotteryDate": "115/06/02",
-                "disburseDate": "115/06/10",
-                "subPrice": 108.0,
-                "shares": 1000,
-                "currentPrice": 143.0,
-                "isEmerging": false
-            },
-            {
-                "name": "合晶",
-                "code": "6182",
-                "market": "上櫃增資",
-                "startDate": "115/05/27",
-                "endDate": "115/05/29",
-                "lotteryDate": "115/06/02",
-                "disburseDate": "115/06/10",
-                "subPrice": 27.8,
-                "shares": 1000,
-                "currentPrice": 99.5,
-                "isEmerging": false
             }
         ]
     }
