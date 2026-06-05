@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-06-04 18:10",
+        "update_time": "2026-06-05 13:23",
         "list": [
             {
                 "name": "立弘",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/06/17",
                 "subPrice": 18.88,
                 "shares": 1000,
-                "currentPrice": 32.7,
+                "currentPrice": 31.8,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/06/18",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 22.85,
+                "currentPrice": 22.3,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/06/15",
                 "subPrice": 36.0,
                 "shares": 1000,
-                "currentPrice": 62.0,
+                "currentPrice": 58.0,
                 "isEmerging": true
             }
         ]
