@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-06-05 18:02",
+        "update_time": "2026-06-06 16:41",
         "list": [
             {
                 "name": "立弘",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/06/17",
                 "subPrice": 18.88,
                 "shares": 1000,
-                "currentPrice": 32.2,
+                "currentPrice": 31.95,
                 "isEmerging": true
             },
             {
@@ -29,19 +29,6 @@
                 "shares": 1000,
                 "currentPrice": 22.25,
                 "isEmerging": false
-            },
-            {
-                "name": "達人網",
-                "code": "7839",
-                "market": "初上櫃",
-                "startDate": "115/06/03",
-                "endDate": "115/06/05",
-                "lotteryDate": "115/06/09",
-                "disburseDate": "115/06/15",
-                "subPrice": 36.0,
-                "shares": 1000,
-                "currentPrice": 60.9,
-                "isEmerging": true
             }
         ]
     }
