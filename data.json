@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-06-08 13:57",
+        "update_time": "2026-06-08 19:15",
         "list": [
             {
                 "name": "海昌生技",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/06/26",
                 "subPrice": 47.5,
                 "shares": 1000,
-                "currentPrice": 61.3,
+                "currentPrice": 66.4,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/06/17",
                 "subPrice": 18.88,
                 "shares": 1000,
-                "currentPrice": 30.55,
+                "currentPrice": 30.95,
                 "isEmerging": true
             },
             {
