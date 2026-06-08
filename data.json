@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-06-07 17:24",
+        "update_time": "2026-06-08 13:57",
         "list": [
+            {
+                "name": "海昌生技",
+                "code": "7814",
+                "market": "初上櫃",
+                "startDate": "115/06/15",
+                "endDate": "115/06/17",
+                "lotteryDate": "115/06/22",
+                "disburseDate": "115/06/26",
+                "subPrice": 32.0,
+                "shares": 1000,
+                "currentPrice": 40.1,
+                "isEmerging": true
+            },
+            {
+                "name": "和迅",
+                "code": "6986",
+                "market": "初上櫃",
+                "startDate": "115/06/15",
+                "endDate": "115/06/17",
+                "lotteryDate": "115/06/22",
+                "disburseDate": "115/06/26",
+                "subPrice": 47.5,
+                "shares": 1000,
+                "currentPrice": 61.3,
+                "isEmerging": true
+            },
             {
                 "name": "立弘",
                 "code": "1780",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/06/17",
                 "subPrice": 18.88,
                 "shares": 1000,
-                "currentPrice": 31.95,
+                "currentPrice": 30.55,
                 "isEmerging": true
             },
             {
@@ -27,7 +53,7 @@
                 "disburseDate": "115/06/18",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 22.25,
+                "currentPrice": 21.45,
                 "isEmerging": false
             }
         ]
