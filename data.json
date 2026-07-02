@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-01 18:00",
+        "update_time": "2026-07-02 13:03",
         "list": [
+            {
+                "name": "鑫聯大投控",
+                "code": "3709",
+                "market": "上櫃增資",
+                "startDate": "115/07/06",
+                "endDate": "115/07/08",
+                "lotteryDate": "115/07/10",
+                "disburseDate": "115/07/20",
+                "subPrice": 71.0,
+                "shares": 1000,
+                "currentPrice": 74.2,
+                "isEmerging": false
+            },
             {
                 "name": "和勤",
                 "code": "1586",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/07/17",
                 "subPrice": 17.2,
                 "shares": 1000,
-                "currentPrice": 19.6,
+                "currentPrice": 19.2,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 32.0,
                 "shares": 1000,
-                "currentPrice": 36.6,
+                "currentPrice": 37.2,
                 "isEmerging": true
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/07/16",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 58.6,
+                "currentPrice": 60.1,
                 "isEmerging": false
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 55.2,
+                "currentPrice": 55.0,
                 "isEmerging": false
             },
             {
@@ -66,7 +79,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 11.0,
                 "shares": 1000,
-                "currentPrice": 12.35,
+                "currentPrice": 12.5,
                 "isEmerging": false
             },
             {
@@ -79,7 +92,7 @@
                 "disburseDate": "115/07/14",
                 "subPrice": 21.0,
                 "shares": 1000,
-                "currentPrice": 25.35,
+                "currentPrice": 25.15,
                 "isEmerging": false
             },
             {
@@ -92,7 +105,7 @@
                 "disburseDate": "115/07/14",
                 "subPrice": 14.0,
                 "shares": 4000,
-                "currentPrice": 13.8,
+                "currentPrice": 14.4,
                 "isEmerging": false
             }
         ]
