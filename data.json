@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-03 12:47",
+        "update_time": "2026-07-03 17:28",
         "list": [
+            {
+                "name": "台鎔科技",
+                "code": "6947",
+                "market": "初上市",
+                "startDate": "115/07/10",
+                "endDate": "115/07/14",
+                "lotteryDate": "115/07/16",
+                "disburseDate": "115/07/22",
+                "subPrice": 66.0,
+                "shares": 1000,
+                "currentPrice": 83.3,
+                "isEmerging": true
+            },
             {
                 "name": "鑫聯大投控",
                 "code": "3709",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/07/20",
                 "subPrice": 71.0,
                 "shares": 1000,
-                "currentPrice": 75.0,
+                "currentPrice": 74.7,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/07/17",
                 "subPrice": 17.2,
                 "shares": 1000,
-                "currentPrice": 19.45,
+                "currentPrice": 19.5,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 32.0,
                 "shares": 1000,
-                "currentPrice": 37.6,
+                "currentPrice": 39.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/07/16",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 60.1,
+                "currentPrice": 60.2,
                 "isEmerging": false
             },
             {
@@ -66,7 +79,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 55.4,
+                "currentPrice": 55.2,
                 "isEmerging": false
             },
             {
@@ -79,7 +92,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 11.0,
                 "shares": 1000,
-                "currentPrice": 13.0,
+                "currentPrice": 12.8,
                 "isEmerging": false
             }
         ]
