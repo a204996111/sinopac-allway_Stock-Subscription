@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-03 17:28",
+        "update_time": "2026-07-04 12:39",
         "list": [
             {
                 "name": "台鎔科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 83.3,
+                "currentPrice": 84.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 32.0,
                 "shares": 1000,
-                "currentPrice": 39.0,
+                "currentPrice": 38.2,
                 "isEmerging": true
             },
             {
@@ -67,32 +67,6 @@
                 "subPrice": 53.0,
                 "shares": 1000,
                 "currentPrice": 60.2,
-                "isEmerging": false
-            },
-            {
-                "name": "信實",
-                "code": "6721",
-                "market": "上櫃增資",
-                "startDate": "115/07/01",
-                "endDate": "115/07/03",
-                "lotteryDate": "115/07/07",
-                "disburseDate": "115/07/15",
-                "subPrice": 50.0,
-                "shares": 1000,
-                "currentPrice": 55.2,
-                "isEmerging": false
-            },
-            {
-                "name": "永捷",
-                "code": "4714",
-                "market": "上櫃增資",
-                "startDate": "115/07/01",
-                "endDate": "115/07/03",
-                "lotteryDate": "115/07/07",
-                "disburseDate": "115/07/15",
-                "subPrice": 11.0,
-                "shares": 1000,
-                "currentPrice": 12.8,
                 "isEmerging": false
             }
         ]
