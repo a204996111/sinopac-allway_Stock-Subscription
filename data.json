@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-05 17:13",
+        "update_time": "2026-07-06 13:17",
         "list": [
             {
                 "name": "台鎔科技",
@@ -14,8 +14,34 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 84.0,
+                "currentPrice": 83.5,
                 "isEmerging": true
+            },
+            {
+                "name": "威潤",
+                "code": "6465",
+                "market": "上櫃增資",
+                "startDate": "115/07/08",
+                "endDate": "115/07/10",
+                "lotteryDate": "115/07/14",
+                "disburseDate": "115/07/22",
+                "subPrice": 46.7,
+                "shares": 1000,
+                "currentPrice": 59.1,
+                "isEmerging": false
+            },
+            {
+                "name": "立凱-KY",
+                "code": "5227",
+                "market": "上櫃增資",
+                "startDate": "115/07/08",
+                "endDate": "115/07/10",
+                "lotteryDate": "115/07/14",
+                "disburseDate": "115/07/22",
+                "subPrice": 26.5,
+                "shares": 1000,
+                "currentPrice": 36.3,
+                "isEmerging": false
             },
             {
                 "name": "鑫聯大投控",
@@ -27,7 +53,7 @@
                 "disburseDate": "115/07/20",
                 "subPrice": 71.0,
                 "shares": 1000,
-                "currentPrice": 74.7,
+                "currentPrice": 75.4,
                 "isEmerging": false
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/07/17",
                 "subPrice": 17.2,
                 "shares": 1000,
-                "currentPrice": 19.5,
+                "currentPrice": 19.9,
                 "isEmerging": false
             },
             {
@@ -53,7 +79,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 32.0,
                 "shares": 1000,
-                "currentPrice": 38.2,
+                "currentPrice": 37.0,
                 "isEmerging": true
             },
             {
@@ -66,7 +92,7 @@
                 "disburseDate": "115/07/16",
                 "subPrice": 53.0,
                 "shares": 1000,
-                "currentPrice": 60.2,
+                "currentPrice": 59.5,
                 "isEmerging": false
             }
         ]
