@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-06 18:49",
+        "update_time": "2026-07-07 12:57",
         "list": [
             {
                 "name": "台鎔科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 83.6,
+                "currentPrice": 82.2,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 46.7,
                 "shares": 1000,
-                "currentPrice": 59.0,
+                "currentPrice": 58.8,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 26.5,
                 "shares": 1000,
-                "currentPrice": 36.15,
+                "currentPrice": 35.65,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/07/20",
                 "subPrice": 71.0,
                 "shares": 1000,
-                "currentPrice": 75.8,
+                "currentPrice": 74.8,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/07/17",
                 "subPrice": 17.2,
                 "shares": 1000,
-                "currentPrice": 19.85,
+                "currentPrice": 19.2,
                 "isEmerging": false
             },
             {
@@ -79,21 +79,8 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 32.0,
                 "shares": 1000,
-                "currentPrice": 38.6,
+                "currentPrice": 36.9,
                 "isEmerging": true
-            },
-            {
-                "name": "邑昇",
-                "code": "5291",
-                "market": "上櫃增資",
-                "startDate": "115/07/02",
-                "endDate": "115/07/06",
-                "lotteryDate": "115/07/08",
-                "disburseDate": "115/07/16",
-                "subPrice": 53.0,
-                "shares": 1000,
-                "currentPrice": 58.9,
-                "isEmerging": false
             }
         ]
     }
