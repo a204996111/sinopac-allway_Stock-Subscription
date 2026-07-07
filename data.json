@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-07 12:57",
+        "update_time": "2026-07-07 17:52",
         "list": [
             {
                 "name": "台鎔科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 82.2,
+                "currentPrice": 82.3,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 46.7,
                 "shares": 1000,
-                "currentPrice": 58.8,
+                "currentPrice": 57.2,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 26.5,
                 "shares": 1000,
-                "currentPrice": 35.65,
+                "currentPrice": 34.35,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/07/20",
                 "subPrice": 71.0,
                 "shares": 1000,
-                "currentPrice": 74.8,
+                "currentPrice": 74.3,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/07/17",
                 "subPrice": 17.2,
                 "shares": 1000,
-                "currentPrice": 19.2,
+                "currentPrice": 19.15,
                 "isEmerging": false
             },
             {
@@ -79,7 +79,7 @@
                 "disburseDate": "115/07/15",
                 "subPrice": 32.0,
                 "shares": 1000,
-                "currentPrice": 36.9,
+                "currentPrice": 38.0,
                 "isEmerging": true
             }
         ]
