@@ -2,8 +2,47 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-08 16:37",
+        "update_time": "2026-07-09 13:03",
         "list": [
+            {
+                "name": "大鵬科",
+                "code": "7689",
+                "market": "初上市",
+                "startDate": "115/07/16",
+                "endDate": "115/07/20",
+                "lotteryDate": "115/07/22",
+                "disburseDate": "115/07/28",
+                "subPrice": 188.0,
+                "shares": 1000,
+                "currentPrice": 249.5,
+                "isEmerging": true
+            },
+            {
+                "name": "華通",
+                "code": "2313",
+                "market": "上市增資",
+                "startDate": "115/07/13",
+                "endDate": "115/07/15",
+                "lotteryDate": "115/07/17",
+                "disburseDate": "115/07/27",
+                "subPrice": 205.0,
+                "shares": 1000,
+                "currentPrice": 224.5,
+                "isEmerging": false
+            },
+            {
+                "name": "長興",
+                "code": "1717",
+                "market": "上市增資",
+                "startDate": "115/07/13",
+                "endDate": "115/07/15",
+                "lotteryDate": "115/07/17",
+                "disburseDate": "115/07/27",
+                "subPrice": 50.0,
+                "shares": 1000,
+                "currentPrice": 74.8,
+                "isEmerging": false
+            },
             {
                 "name": "典範",
                 "code": "3372",
@@ -27,7 +66,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 79.2,
+                "currentPrice": 85.9,
                 "isEmerging": true
             },
             {
@@ -40,7 +79,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 46.7,
                 "shares": 1000,
-                "currentPrice": 57.6,
+                "currentPrice": 63.3,
                 "isEmerging": false
             },
             {
@@ -53,20 +92,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 26.5,
                 "shares": 1000,
-                "currentPrice": 33.5,
-                "isEmerging": false
-            },
-            {
-                "name": "鑫聯大投控",
-                "code": "3709",
-                "market": "上櫃增資",
-                "startDate": "115/07/06",
-                "endDate": "115/07/08",
-                "lotteryDate": "115/07/10",
-                "disburseDate": "115/07/20",
-                "subPrice": 71.0,
-                "shares": 1000,
-                "currentPrice": 73.2,
+                "currentPrice": 30.2,
                 "isEmerging": false
             }
         ]
