@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-10 17:45",
+        "update_time": "2026-07-11 12:17",
         "list": [
             {
                 "name": "大鵬科",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 247.0,
+                "currentPrice": 248.0,
                 "isEmerging": true
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 82.1,
+                "currentPrice": 82.7,
                 "isEmerging": true
             },
             {
