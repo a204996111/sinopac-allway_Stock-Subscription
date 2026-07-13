@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-13 12:33",
+        "update_time": "2026-07-13 17:38",
         "list": [
             {
                 "name": "大鵬科",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 247.0,
+                "currentPrice": 243.0,
                 "isEmerging": true
             },
             {
@@ -27,8 +27,21 @@
                 "disburseDate": "115/07/27",
                 "subPrice": 205.0,
                 "shares": 1000,
-                "currentPrice": 232.0,
+                "currentPrice": 235.0,
                 "isEmerging": false
+            },
+            {
+                "name": "台鎔科技",
+                "code": "6947",
+                "market": "初上市",
+                "startDate": "115/07/10",
+                "endDate": "115/07/15",
+                "lotteryDate": "115/07/17",
+                "disburseDate": "115/07/23",
+                "subPrice": 66.0,
+                "shares": 1000,
+                "currentPrice": 83.8,
+                "isEmerging": true
             },
             {
                 "name": "長興",
@@ -40,7 +53,7 @@
                 "disburseDate": "115/07/27",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 71.9,
+                "currentPrice": 72.6,
                 "isEmerging": false
             },
             {
@@ -53,21 +66,8 @@
                 "disburseDate": "115/07/24",
                 "subPrice": 16.8,
                 "shares": 1000,
-                "currentPrice": 18.05,
+                "currentPrice": 18.15,
                 "isEmerging": false
-            },
-            {
-                "name": "台鎔科技",
-                "code": "6947",
-                "market": "初上市",
-                "startDate": "115/07/10",
-                "endDate": "115/07/14",
-                "lotteryDate": "115/07/16",
-                "disburseDate": "115/07/22",
-                "subPrice": 66.0,
-                "shares": 1000,
-                "currentPrice": 80.6,
-                "isEmerging": true
             },
             {
                 "name": "威潤",
@@ -79,7 +79,7 @@
                 "disburseDate": "115/07/23",
                 "subPrice": 46.7,
                 "shares": 1000,
-                "currentPrice": 60.2,
+                "currentPrice": 59.6,
                 "isEmerging": false
             },
             {
@@ -92,7 +92,7 @@
                 "disburseDate": "115/07/23",
                 "subPrice": 26.5,
                 "shares": 1000,
-                "currentPrice": 30.7,
+                "currentPrice": 31.0,
                 "isEmerging": false
             }
         ]
