@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-12 16:25",
+        "update_time": "2026-07-13 12:33",
         "list": [
             {
                 "name": "大鵬科",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 248.0,
+                "currentPrice": 247.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/07/27",
                 "subPrice": 205.0,
                 "shares": 1000,
-                "currentPrice": 223.0,
+                "currentPrice": 232.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/07/27",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 73.8,
+                "currentPrice": 71.9,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/07/24",
                 "subPrice": 16.8,
                 "shares": 1000,
-                "currentPrice": 19.8,
+                "currentPrice": 18.05,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/07/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 82.7,
+                "currentPrice": 80.6,
                 "isEmerging": true
             },
             {
@@ -79,7 +79,7 @@
                 "disburseDate": "115/07/23",
                 "subPrice": 46.7,
                 "shares": 1000,
-                "currentPrice": 63.3,
+                "currentPrice": 60.2,
                 "isEmerging": false
             },
             {
@@ -92,7 +92,7 @@
                 "disburseDate": "115/07/23",
                 "subPrice": 26.5,
                 "shares": 1000,
-                "currentPrice": 30.15,
+                "currentPrice": 30.7,
                 "isEmerging": false
             }
         ]
