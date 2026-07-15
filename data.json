@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-14 16:18",
+        "update_time": "2026-07-15 12:09",
         "list": [
             {
                 "name": "大鵬科",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 232.5,
+                "currentPrice": 234.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/07/27",
                 "subPrice": 205.0,
                 "shares": 1000,
-                "currentPrice": 225.5,
+                "currentPrice": 248.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/07/23",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 82.9,
+                "currentPrice": 80.8,
                 "isEmerging": true
             },
             {
@@ -53,20 +53,7 @@
                 "disburseDate": "115/07/27",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 70.0,
-                "isEmerging": false
-            },
-            {
-                "name": "典範",
-                "code": "3372",
-                "market": "上櫃增資",
-                "startDate": "115/07/10",
-                "endDate": "115/07/14",
-                "lotteryDate": "115/07/16",
-                "disburseDate": "115/07/24",
-                "subPrice": 16.8,
-                "shares": 1000,
-                "currentPrice": 17.65,
+                "currentPrice": 71.7,
                 "isEmerging": false
             }
         ]
