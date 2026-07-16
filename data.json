@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-16 12:12",
+        "update_time": "2026-07-16 16:23",
         "list": [
+            {
+                "name": "至上",
+                "code": "8112",
+                "market": "上市增資",
+                "startDate": "115/07/20",
+                "endDate": "115/07/22",
+                "lotteryDate": "115/07/24",
+                "disburseDate": "115/08/03",
+                "subPrice": 66.0,
+                "shares": 1000,
+                "currentPrice": 85.8,
+                "isEmerging": false
+            },
+            {
+                "name": "榮科",
+                "code": "4989",
+                "market": "上市增資",
+                "startDate": "115/07/20",
+                "endDate": "115/07/22",
+                "lotteryDate": "115/07/24",
+                "disburseDate": "115/08/03",
+                "subPrice": 60.0,
+                "shares": 1000,
+                "currentPrice": 78.2,
+                "isEmerging": false
+            },
             {
                 "name": "大鵬科",
                 "code": "7689",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 230.5,
+                "currentPrice": 231.0,
                 "isEmerging": true
             }
         ]
