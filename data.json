@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-15 16:23",
+        "update_time": "2026-07-16 12:12",
         "list": [
             {
                 "name": "大鵬科",
@@ -14,47 +14,8 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 233.5,
+                "currentPrice": 230.5,
                 "isEmerging": true
-            },
-            {
-                "name": "華通",
-                "code": "2313",
-                "market": "上市增資",
-                "startDate": "115/07/13",
-                "endDate": "115/07/15",
-                "lotteryDate": "115/07/17",
-                "disburseDate": "115/07/27",
-                "subPrice": 205.0,
-                "shares": 1000,
-                "currentPrice": 248.0,
-                "isEmerging": false
-            },
-            {
-                "name": "台鎔科技",
-                "code": "6947",
-                "market": "初上市",
-                "startDate": "115/07/10",
-                "endDate": "115/07/15",
-                "lotteryDate": "115/07/17",
-                "disburseDate": "115/07/23",
-                "subPrice": 66.0,
-                "shares": 1000,
-                "currentPrice": 80.3,
-                "isEmerging": true
-            },
-            {
-                "name": "長興",
-                "code": "1717",
-                "market": "上市增資",
-                "startDate": "115/07/13",
-                "endDate": "115/07/15",
-                "lotteryDate": "115/07/17",
-                "disburseDate": "115/07/27",
-                "subPrice": 50.0,
-                "shares": 1000,
-                "currentPrice": 71.5,
-                "isEmerging": false
             }
         ]
     }
