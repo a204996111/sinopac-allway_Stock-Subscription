@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-17 16:19",
+        "update_time": "2026-07-18 12:04",
         "list": [
             {
                 "name": "至上",
@@ -40,7 +40,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 209.0,
+                "currentPrice": 210.0,
                 "isEmerging": true
             }
         ]
