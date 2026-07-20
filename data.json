@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-20 12:39",
+        "update_time": "2026-07-20 17:25",
         "list": [
+            {
+                "name": "進泰電子",
+                "code": "3465",
+                "market": "上櫃增資",
+                "startDate": "115/07/22",
+                "endDate": "115/07/24",
+                "lotteryDate": "115/07/28",
+                "disburseDate": "115/08/05",
+                "subPrice": 30.0,
+                "shares": 1000,
+                "currentPrice": 30.0,
+                "isEmerging": false
+            },
             {
                 "name": "至上",
                 "code": "8112",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 81.4,
+                "currentPrice": 80.9,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 65.6,
+                "currentPrice": 64.9,
                 "isEmerging": false
             },
             {
