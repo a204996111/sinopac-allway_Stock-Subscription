@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-19 16:27",
+        "update_time": "2026-07-20 12:39",
         "list": [
             {
                 "name": "至上",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 81.9,
+                "currentPrice": 81.4,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 70.4,
+                "currentPrice": 65.6,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/07/28",
                 "subPrice": 188.0,
                 "shares": 1000,
-                "currentPrice": 210.0,
+                "currentPrice": 202.0,
                 "isEmerging": true
             }
         ]
