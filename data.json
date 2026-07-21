@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-21 12:18",
+        "update_time": "2026-07-21 16:37",
         "list": [
+            {
+                "name": "新應材",
+                "code": "4749",
+                "market": "上櫃增資",
+                "startDate": "115/07/23",
+                "endDate": "115/07/27",
+                "lotteryDate": "115/07/29",
+                "disburseDate": "115/08/06",
+                "subPrice": 745.0,
+                "shares": 1000,
+                "currentPrice": 816.0,
+                "isEmerging": false
+            },
             {
                 "name": "進泰電子",
                 "code": "3465",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/08/05",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 30.55,
+                "currentPrice": 30.7,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 85.2,
+                "currentPrice": 86.2,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 66.1,
+                "currentPrice": 69.0,
                 "isEmerging": false
             }
         ]
