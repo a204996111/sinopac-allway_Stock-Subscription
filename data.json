@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-20 17:25",
+        "update_time": "2026-07-21 12:18",
         "list": [
             {
                 "name": "進泰電子",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/05",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 30.0,
+                "currentPrice": 30.55,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 80.9,
+                "currentPrice": 85.2,
                 "isEmerging": false
             },
             {
@@ -40,21 +40,8 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 64.9,
+                "currentPrice": 66.1,
                 "isEmerging": false
-            },
-            {
-                "name": "大鵬科",
-                "code": "7689",
-                "market": "初上市",
-                "startDate": "115/07/16",
-                "endDate": "115/07/20",
-                "lotteryDate": "115/07/22",
-                "disburseDate": "115/07/28",
-                "subPrice": 188.0,
-                "shares": 1000,
-                "currentPrice": 202.0,
-                "isEmerging": true
             }
         ]
     }
