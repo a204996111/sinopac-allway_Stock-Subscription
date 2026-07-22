@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-22 12:21",
+        "update_time": "2026-07-22 16:36",
         "list": [
+            {
+                "name": "華德動能",
+                "code": "2237",
+                "market": "創新板初上市",
+                "startDate": "115/07/29",
+                "endDate": "115/07/31",
+                "lotteryDate": "115/08/04",
+                "disburseDate": "115/08/10",
+                "subPrice": 28.6,
+                "shares": 1000,
+                "currentPrice": 38.3,
+                "isEmerging": true
+            },
             {
                 "name": "新應材",
                 "code": "4749",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/08/06",
                 "subPrice": 745.0,
                 "shares": 1000,
-                "currentPrice": 823.0,
+                "currentPrice": 815.0,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/08/05",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 30.9,
+                "currentPrice": 30.7,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 88.8,
+                "currentPrice": 88.1,
                 "isEmerging": false
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/08/03",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 73.1,
+                "currentPrice": 72.5,
                 "isEmerging": false
             }
         ]
