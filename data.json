@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-22 16:36",
+        "update_time": "2026-07-23 12:19",
         "list": [
             {
                 "name": "華德動能",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/10",
                 "subPrice": 28.6,
                 "shares": 1000,
-                "currentPrice": 38.3,
+                "currentPrice": 37.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/06",
                 "subPrice": 745.0,
                 "shares": 1000,
-                "currentPrice": 815.0,
+                "currentPrice": 810.0,
                 "isEmerging": false
             },
             {
@@ -40,33 +40,7 @@
                 "disburseDate": "115/08/05",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 30.7,
-                "isEmerging": false
-            },
-            {
-                "name": "至上",
-                "code": "8112",
-                "market": "上市增資",
-                "startDate": "115/07/20",
-                "endDate": "115/07/22",
-                "lotteryDate": "115/07/24",
-                "disburseDate": "115/08/03",
-                "subPrice": 66.0,
-                "shares": 1000,
-                "currentPrice": 88.1,
-                "isEmerging": false
-            },
-            {
-                "name": "榮科",
-                "code": "4989",
-                "market": "上市增資",
-                "startDate": "115/07/20",
-                "endDate": "115/07/22",
-                "lotteryDate": "115/07/24",
-                "disburseDate": "115/08/03",
-                "subPrice": 60.0,
-                "shares": 1000,
-                "currentPrice": 72.5,
+                "currentPrice": 30.4,
                 "isEmerging": false
             }
         ]
