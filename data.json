@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-23 12:19",
+        "update_time": "2026-07-23 16:38",
         "list": [
+            {
+                "name": "和運租車",
+                "code": "7855",
+                "market": "初上市",
+                "startDate": "115/07/30",
+                "endDate": "115/08/03",
+                "lotteryDate": "115/08/05",
+                "disburseDate": "115/08/11",
+                "subPrice": 42.0,
+                "shares": 1000,
+                "currentPrice": 101.5,
+                "isEmerging": true
+            },
             {
                 "name": "華德動能",
                 "code": "2237",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/08/10",
                 "subPrice": 28.6,
                 "shares": 1000,
-                "currentPrice": 37.0,
+                "currentPrice": 36.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/08/06",
                 "subPrice": 745.0,
                 "shares": 1000,
-                "currentPrice": 810.0,
+                "currentPrice": 809.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/08/05",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 30.4,
+                "currentPrice": 30.5,
                 "isEmerging": false
             }
         ]
