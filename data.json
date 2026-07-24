@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-23 16:38",
+        "update_time": "2026-07-24 12:19",
         "list": [
             {
                 "name": "和運租車",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/11",
                 "subPrice": 42.0,
                 "shares": 1000,
-                "currentPrice": 101.5,
+                "currentPrice": 101.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/10",
                 "subPrice": 28.6,
                 "shares": 1000,
-                "currentPrice": 36.0,
+                "currentPrice": 35.55,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/08/06",
                 "subPrice": 745.0,
                 "shares": 1000,
-                "currentPrice": 809.0,
+                "currentPrice": 782.0,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/08/05",
                 "subPrice": 30.0,
                 "shares": 1000,
-                "currentPrice": 30.5,
+                "currentPrice": 30.55,
                 "isEmerging": false
             }
         ]
