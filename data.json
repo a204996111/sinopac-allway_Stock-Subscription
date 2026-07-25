@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-24 16:34",
+        "update_time": "2026-07-25 12:15",
         "list": [
             {
                 "name": "和運租車",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/10",
                 "subPrice": 28.6,
                 "shares": 1000,
-                "currentPrice": 35.45,
+                "currentPrice": 35.5,
                 "isEmerging": true
             },
             {
@@ -41,19 +41,6 @@
                 "subPrice": 745.0,
                 "shares": 1000,
                 "currentPrice": 778.0,
-                "isEmerging": false
-            },
-            {
-                "name": "進泰電子",
-                "code": "3465",
-                "market": "上櫃增資",
-                "startDate": "115/07/22",
-                "endDate": "115/07/24",
-                "lotteryDate": "115/07/28",
-                "disburseDate": "115/08/05",
-                "subPrice": 30.0,
-                "shares": 1000,
-                "currentPrice": 30.35,
                 "isEmerging": false
             }
         ]
