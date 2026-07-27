@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-27 12:41",
+        "update_time": "2026-07-27 18:01",
         "list": [
             {
                 "name": "和運租車",
@@ -27,8 +27,21 @@
                 "disburseDate": "115/08/10",
                 "subPrice": 28.6,
                 "shares": 1000,
-                "currentPrice": 35.6,
+                "currentPrice": 35.95,
                 "isEmerging": true
+            },
+            {
+                "name": "正達",
+                "code": "3149",
+                "market": "上市增資",
+                "startDate": "115/07/29",
+                "endDate": "115/07/31",
+                "lotteryDate": "115/08/04",
+                "disburseDate": "115/08/12",
+                "subPrice": 61.0,
+                "shares": 1000,
+                "currentPrice": 68.4,
+                "isEmerging": false
             },
             {
                 "name": "新應材",
@@ -40,7 +53,7 @@
                 "disburseDate": "115/08/06",
                 "subPrice": 745.0,
                 "shares": 1000,
-                "currentPrice": 765.0,
+                "currentPrice": 773.0,
                 "isEmerging": false
             }
         ]
