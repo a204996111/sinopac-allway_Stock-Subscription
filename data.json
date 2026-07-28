@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-27 18:01",
+        "update_time": "2026-07-28 12:14",
         "list": [
             {
                 "name": "和運租車",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/10",
                 "subPrice": 28.6,
                 "shares": 1000,
-                "currentPrice": 35.95,
+                "currentPrice": 35.15,
                 "isEmerging": true
             },
             {
@@ -40,20 +40,7 @@
                 "disburseDate": "115/08/12",
                 "subPrice": 61.0,
                 "shares": 1000,
-                "currentPrice": 68.4,
-                "isEmerging": false
-            },
-            {
-                "name": "新應材",
-                "code": "4749",
-                "market": "上櫃增資",
-                "startDate": "115/07/23",
-                "endDate": "115/07/27",
-                "lotteryDate": "115/07/29",
-                "disburseDate": "115/08/06",
-                "subPrice": 745.0,
-                "shares": 1000,
-                "currentPrice": 773.0,
+                "currentPrice": 69.4,
                 "isEmerging": false
             }
         ]
