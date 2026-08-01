@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-07-31 17:09",
+        "update_time": "2026-08-01 12:23",
         "list": [
             {
                 "name": "生合",
@@ -42,32 +42,6 @@
                 "shares": 1000,
                 "currentPrice": 95.7,
                 "isEmerging": true
-            },
-            {
-                "name": "華德動能",
-                "code": "2237",
-                "market": "創新板初上市",
-                "startDate": "115/07/29",
-                "endDate": "115/07/31",
-                "lotteryDate": "115/08/04",
-                "disburseDate": "115/08/10",
-                "subPrice": 28.6,
-                "shares": 1000,
-                "currentPrice": 33.45,
-                "isEmerging": true
-            },
-            {
-                "name": "正達",
-                "code": "3149",
-                "market": "上市增資",
-                "startDate": "115/07/29",
-                "endDate": "115/07/31",
-                "lotteryDate": "115/08/04",
-                "disburseDate": "115/08/12",
-                "subPrice": 61.0,
-                "shares": 1000,
-                "currentPrice": 65.9,
-                "isEmerging": false
             }
         ]
     }
