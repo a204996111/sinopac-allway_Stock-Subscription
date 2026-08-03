@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-03 12:34",
+        "update_time": "2026-08-03 17:56",
         "list": [
             {
                 "name": "生合",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/18",
                 "subPrice": 45.0,
                 "shares": 1000,
-                "currentPrice": 46.45,
+                "currentPrice": 46.2,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/08/18",
                 "subPrice": 88.0,
                 "shares": 1000,
-                "currentPrice": 96.5,
+                "currentPrice": 96.3,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/08/11",
                 "subPrice": 42.0,
                 "shares": 1000,
-                "currentPrice": 90.4,
+                "currentPrice": 91.4,
                 "isEmerging": true
             }
         ]
