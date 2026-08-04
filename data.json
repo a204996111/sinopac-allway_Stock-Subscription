@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-03 17:56",
+        "update_time": "2026-08-04 12:17",
         "list": [
             {
                 "name": "生合",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/18",
                 "subPrice": 45.0,
                 "shares": 1000,
-                "currentPrice": 46.2,
+                "currentPrice": 46.5,
                 "isEmerging": false
             },
             {
@@ -27,21 +27,8 @@
                 "disburseDate": "115/08/18",
                 "subPrice": 88.0,
                 "shares": 1000,
-                "currentPrice": 96.3,
+                "currentPrice": 95.7,
                 "isEmerging": false
-            },
-            {
-                "name": "和運租車",
-                "code": "7855",
-                "market": "初上市",
-                "startDate": "115/07/30",
-                "endDate": "115/08/03",
-                "lotteryDate": "115/08/05",
-                "disburseDate": "115/08/11",
-                "subPrice": 42.0,
-                "shares": 1000,
-                "currentPrice": 91.4,
-                "isEmerging": true
             }
         ]
     }
