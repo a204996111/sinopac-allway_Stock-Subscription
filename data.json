@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-06 16:45",
+        "update_time": "2026-08-07 11:53",
         "list": [
             {
                 "name": "智崴",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/21",
                 "subPrice": 85.8,
                 "shares": 1000,
-                "currentPrice": 92.4,
+                "currentPrice": 91.6,
                 "isEmerging": false
             },
             {
@@ -27,33 +27,7 @@
                 "disburseDate": "115/08/21",
                 "subPrice": 34.0,
                 "shares": 1000,
-                "currentPrice": 38.7,
-                "isEmerging": false
-            },
-            {
-                "name": "生合",
-                "code": "1295",
-                "market": "上櫃增資",
-                "startDate": "115/08/04",
-                "endDate": "115/08/06",
-                "lotteryDate": "115/08/10",
-                "disburseDate": "115/08/18",
-                "subPrice": 45.0,
-                "shares": 1000,
-                "currentPrice": 46.2,
-                "isEmerging": false
-            },
-            {
-                "name": "醫揚",
-                "code": "6569",
-                "market": "上櫃增資",
-                "startDate": "115/08/04",
-                "endDate": "115/08/06",
-                "lotteryDate": "115/08/10",
-                "disburseDate": "115/08/18",
-                "subPrice": 88.0,
-                "shares": 1000,
-                "currentPrice": 98.4,
+                "currentPrice": 37.7,
                 "isEmerging": false
             }
         ]
