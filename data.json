@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-09 15:04",
+        "update_time": "2026-08-10 11:13",
         "list": [
             {
                 "name": "智崴",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/21",
                 "subPrice": 85.8,
                 "shares": 1000,
-                "currentPrice": 91.4,
+                "currentPrice": 91.7,
                 "isEmerging": false
             },
             {
