@@ -2,34 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-11 15:16",
-        "list": [
-            {
-                "name": "智崴",
-                "code": "5263",
-                "market": "上櫃增資",
-                "startDate": "115/08/07",
-                "endDate": "115/08/11",
-                "lotteryDate": "115/08/13",
-                "disburseDate": "115/08/21",
-                "subPrice": 85.8,
-                "shares": 1000,
-                "currentPrice": 94.7,
-                "isEmerging": false
-            },
-            {
-                "name": "生華科",
-                "code": "6492",
-                "market": "上櫃增資",
-                "startDate": "115/08/07",
-                "endDate": "115/08/11",
-                "lotteryDate": "115/08/13",
-                "disburseDate": "115/08/21",
-                "subPrice": 34.0,
-                "shares": 1000,
-                "currentPrice": 37.9,
-                "isEmerging": false
-            }
-        ]
+        "update_time": "2026-08-12 11:25",
+        "list": []
     }
 }
