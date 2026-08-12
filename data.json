@@ -2,7 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-12 11:25",
-        "list": []
+        "update_time": "2026-08-12 15:40",
+        "list": [
+            {
+                "name": "安國",
+                "code": "8054",
+                "market": "上櫃增資",
+                "startDate": "115/08/14",
+                "endDate": "115/08/18",
+                "lotteryDate": "115/08/20",
+                "disburseDate": "115/08/28",
+                "subPrice": 77.0,
+                "shares": 1000,
+                "currentPrice": 84.6,
+                "isEmerging": false
+            }
+        ]
     }
 }
