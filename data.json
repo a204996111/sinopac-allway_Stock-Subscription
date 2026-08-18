@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-18 10:16",
+        "update_time": "2026-08-18 14:52",
         "list": [
             {
                 "name": "安國",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/08/28",
                 "subPrice": 77.0,
                 "shares": 1000,
-                "currentPrice": 80.6,
+                "currentPrice": 80.0,
                 "isEmerging": false
             }
         ]
