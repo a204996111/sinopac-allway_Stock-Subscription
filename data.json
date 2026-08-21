@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-21 10:24",
+        "update_time": "2026-08-21 14:55",
         "list": [
             {
                 "name": "旭源",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 11.0,
                 "shares": 1000,
-                "currentPrice": 13.4,
+                "currentPrice": 13.7,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 73.5,
                 "shares": 1000,
-                "currentPrice": 82.5,
+                "currentPrice": 82.8,
                 "isEmerging": false
             }
         ]
