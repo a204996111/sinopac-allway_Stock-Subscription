@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-24 10:23",
+        "update_time": "2026-08-24 15:08",
         "list": [
+            {
+                "name": "和亞智慧",
+                "code": "7825",
+                "market": "初上櫃",
+                "startDate": "115/08/31",
+                "endDate": "115/09/02",
+                "lotteryDate": "115/09/04",
+                "disburseDate": "115/09/10",
+                "subPrice": 48.88,
+                "shares": 1000,
+                "currentPrice": 86.3,
+                "isEmerging": true
+            },
             {
                 "name": "旭源",
                 "code": "8421",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 11.0,
                 "shares": 1000,
-                "currentPrice": 13.55,
+                "currentPrice": 13.75,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 73.5,
                 "shares": 1000,
-                "currentPrice": 82.9,
+                "currentPrice": 82.6,
                 "isEmerging": false
             }
         ]
