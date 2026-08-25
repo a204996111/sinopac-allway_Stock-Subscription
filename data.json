@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-25 10:19",
+        "update_time": "2026-08-25 14:56",
         "list": [
             {
                 "name": "和亞智慧",
@@ -14,8 +14,21 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 82.2,
+                "currentPrice": 82.1,
                 "isEmerging": true
+            },
+            {
+                "name": "汎瑋材料",
+                "code": "6967",
+                "market": "上櫃增資",
+                "startDate": "115/08/27",
+                "endDate": "115/08/31",
+                "lotteryDate": "115/09/02",
+                "disburseDate": "115/09/10",
+                "subPrice": 55.0,
+                "shares": 1000,
+                "currentPrice": 72.6,
+                "isEmerging": false
             },
             {
                 "name": "旭源",
@@ -27,7 +40,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 11.0,
                 "shares": 1000,
-                "currentPrice": 13.6,
+                "currentPrice": 13.8,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 73.5,
                 "shares": 1000,
-                "currentPrice": 81.7,
+                "currentPrice": 82.0,
                 "isEmerging": false
             }
         ]
