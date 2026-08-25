@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-24 15:08",
+        "update_time": "2026-08-25 10:19",
         "list": [
             {
                 "name": "和亞智慧",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 86.3,
+                "currentPrice": 82.2,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 11.0,
                 "shares": 1000,
-                "currentPrice": 13.75,
+                "currentPrice": 13.6,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/09/07",
                 "subPrice": 73.5,
                 "shares": 1000,
-                "currentPrice": 82.6,
+                "currentPrice": 81.7,
                 "isEmerging": false
             }
         ]
