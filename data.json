@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-26 14:57",
+        "update_time": "2026-08-27 19:04",
         "list": [
+            {
+                "name": "床的世界",
+                "code": "2938",
+                "market": "初上櫃",
+                "startDate": "115/09/04",
+                "endDate": "115/09/08",
+                "lotteryDate": "115/09/10",
+                "disburseDate": "115/09/16",
+                "subPrice": 18.0,
+                "shares": 1000,
+                "currentPrice": 24.7,
+                "isEmerging": true
+            },
             {
                 "name": "和亞智慧",
                 "code": "7825",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 86.8,
+                "currentPrice": 95.0,
                 "isEmerging": true
             },
             {
@@ -27,33 +40,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 55.0,
                 "shares": 1000,
-                "currentPrice": 72.5,
-                "isEmerging": false
-            },
-            {
-                "name": "旭源",
-                "code": "8421",
-                "market": "上櫃增資",
-                "startDate": "115/08/24",
-                "endDate": "115/08/26",
-                "lotteryDate": "115/08/28",
-                "disburseDate": "115/09/07",
-                "subPrice": 11.0,
-                "shares": 1000,
-                "currentPrice": 13.6,
-                "isEmerging": false
-            },
-            {
-                "name": "元大期",
-                "code": "6023",
-                "market": "上櫃增資",
-                "startDate": "115/08/24",
-                "endDate": "115/08/26",
-                "lotteryDate": "115/08/28",
-                "disburseDate": "115/09/07",
-                "subPrice": 73.5,
-                "shares": 1000,
-                "currentPrice": 83.0,
+                "currentPrice": 72.9,
                 "isEmerging": false
             }
         ]
