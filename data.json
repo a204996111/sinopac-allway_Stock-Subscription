@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-27 19:04",
+        "update_time": "2026-08-28 20:37",
         "list": [
             {
                 "name": "床的世界",
@@ -14,8 +14,34 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 24.7,
+                "currentPrice": 25.0,
                 "isEmerging": true
+            },
+            {
+                "name": "樂事綠能",
+                "code": "1529",
+                "market": "上市增資",
+                "startDate": "115/09/02",
+                "endDate": "115/09/04",
+                "lotteryDate": "115/09/08",
+                "disburseDate": "115/09/16",
+                "subPrice": 14.0,
+                "shares": 2000,
+                "currentPrice": 17.6,
+                "isEmerging": false
+            },
+            {
+                "name": "坤悅",
+                "code": "5206",
+                "market": "上櫃增資",
+                "startDate": "115/09/01",
+                "endDate": "115/09/03",
+                "lotteryDate": "115/09/07",
+                "disburseDate": "115/09/15",
+                "subPrice": 20.0,
+                "shares": 1000,
+                "currentPrice": 23.7,
+                "isEmerging": false
             },
             {
                 "name": "和亞智慧",
@@ -27,7 +53,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 95.0,
+                "currentPrice": 97.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 55.0,
                 "shares": 1000,
-                "currentPrice": 72.9,
+                "currentPrice": 73.5,
                 "isEmerging": false
             }
         ]
