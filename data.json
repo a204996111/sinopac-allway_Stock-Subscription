@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-28 20:37",
+        "update_time": "2026-08-29 15:45",
         "list": [
             {
                 "name": "床的世界",
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 97.0,
+                "currentPrice": 95.8,
                 "isEmerging": true
             },
             {
