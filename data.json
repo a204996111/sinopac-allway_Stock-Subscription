@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-08-31 14:50",
+        "update_time": "2026-09-01 14:09",
         "list": [
             {
                 "name": "床的世界",
@@ -14,8 +14,21 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 24.85,
+                "currentPrice": 23.5,
                 "isEmerging": true
+            },
+            {
+                "name": "雙鍵",
+                "code": "4764",
+                "market": "上市增資",
+                "startDate": "115/09/03",
+                "endDate": "115/09/07",
+                "lotteryDate": "115/09/09",
+                "disburseDate": "115/09/17",
+                "subPrice": 169.0,
+                "shares": 1000,
+                "currentPrice": 247.0,
+                "isEmerging": false
             },
             {
                 "name": "樂事綠能",
@@ -27,7 +40,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 14.0,
                 "shares": 2000,
-                "currentPrice": 17.1,
+                "currentPrice": 17.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 310.0,
                 "shares": 1000,
-                "currentPrice": 318.5,
+                "currentPrice": 335.5,
                 "isEmerging": false
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 83.0,
                 "shares": 1000,
-                "currentPrice": 90.3,
+                "currentPrice": 90.6,
                 "isEmerging": false
             },
             {
@@ -66,7 +79,7 @@
                 "disburseDate": "115/09/15",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 23.2,
+                "currentPrice": 23.35,
                 "isEmerging": false
             },
             {
@@ -79,21 +92,8 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 98.5,
+                "currentPrice": 89.7,
                 "isEmerging": true
-            },
-            {
-                "name": "汎瑋材料",
-                "code": "6967",
-                "market": "上櫃增資",
-                "startDate": "115/08/27",
-                "endDate": "115/08/31",
-                "lotteryDate": "115/09/02",
-                "disburseDate": "115/09/10",
-                "subPrice": 55.0,
-                "shares": 1000,
-                "currentPrice": 73.0,
-                "isEmerging": false
             }
         ]
     }
