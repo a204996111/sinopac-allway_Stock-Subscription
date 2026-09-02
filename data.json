@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-02 13:35",
+        "update_time": "2026-09-02 19:00",
         "list": [
             {
                 "name": "新潤",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.5,
                 "shares": 1000,
-                "currentPrice": 31.4,
+                "currentPrice": 31.45,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.8,
                 "shares": 1000,
-                "currentPrice": 39.2,
+                "currentPrice": 39.15,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 23.5,
+                "currentPrice": 24.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/17",
                 "subPrice": 169.0,
                 "shares": 1000,
-                "currentPrice": 242.5,
+                "currentPrice": 240.0,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 14.0,
                 "shares": 2000,
-                "currentPrice": 16.9,
+                "currentPrice": 16.8,
                 "isEmerging": false
             },
             {
@@ -79,7 +79,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 310.0,
                 "shares": 1000,
-                "currentPrice": 345.0,
+                "currentPrice": 341.5,
                 "isEmerging": false
             },
             {
@@ -92,7 +92,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 83.0,
                 "shares": 1000,
-                "currentPrice": 90.6,
+                "currentPrice": 90.3,
                 "isEmerging": false
             },
             {
@@ -118,7 +118,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 96.4,
+                "currentPrice": 96.0,
                 "isEmerging": true
             }
         ]
