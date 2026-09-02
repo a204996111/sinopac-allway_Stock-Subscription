@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-01 14:09",
+        "update_time": "2026-09-02 13:35",
         "list": [
+            {
+                "name": "新潤",
+                "code": "6186",
+                "market": "上櫃增資",
+                "startDate": "115/09/04",
+                "endDate": "115/09/08",
+                "lotteryDate": "115/09/10",
+                "disburseDate": "115/09/18",
+                "subPrice": 28.5,
+                "shares": 1000,
+                "currentPrice": 31.4,
+                "isEmerging": false
+            },
+            {
+                "name": "能率亞洲",
+                "code": "7777",
+                "market": "上櫃增資",
+                "startDate": "115/09/04",
+                "endDate": "115/09/08",
+                "lotteryDate": "115/09/10",
+                "disburseDate": "115/09/18",
+                "subPrice": 28.8,
+                "shares": 1000,
+                "currentPrice": 39.2,
+                "isEmerging": false
+            },
             {
                 "name": "床的世界",
                 "code": "2938",
@@ -27,7 +53,7 @@
                 "disburseDate": "115/09/17",
                 "subPrice": 169.0,
                 "shares": 1000,
-                "currentPrice": 247.0,
+                "currentPrice": 242.5,
                 "isEmerging": false
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 14.0,
                 "shares": 2000,
-                "currentPrice": 17.0,
+                "currentPrice": 16.9,
                 "isEmerging": false
             },
             {
@@ -53,7 +79,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 310.0,
                 "shares": 1000,
-                "currentPrice": 335.5,
+                "currentPrice": 345.0,
                 "isEmerging": false
             },
             {
@@ -79,7 +105,7 @@
                 "disburseDate": "115/09/15",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 23.35,
+                "currentPrice": 23.3,
                 "isEmerging": false
             },
             {
@@ -92,7 +118,7 @@
                 "disburseDate": "115/09/10",
                 "subPrice": 48.88,
                 "shares": 1000,
-                "currentPrice": 89.7,
+                "currentPrice": 96.4,
                 "isEmerging": true
             }
         ]
