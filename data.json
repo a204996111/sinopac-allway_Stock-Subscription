@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-02 19:00",
+        "update_time": "2026-09-03 13:35",
         "list": [
+            {
+                "name": "漢測",
+                "code": "7856",
+                "market": "初上櫃",
+                "startDate": "115/09/10",
+                "endDate": "115/09/14",
+                "lotteryDate": "115/09/16",
+                "disburseDate": "115/09/22",
+                "subPrice": 2250.0,
+                "shares": 1000,
+                "currentPrice": 4765.0,
+                "isEmerging": true
+            },
+            {
+                "name": "信紘科",
+                "code": "6667",
+                "market": "上櫃增資",
+                "startDate": "115/09/07",
+                "endDate": "115/09/09",
+                "lotteryDate": "115/09/11",
+                "disburseDate": "115/09/21",
+                "subPrice": 165.0,
+                "shares": 1000,
+                "currentPrice": 218.5,
+                "isEmerging": false
+            },
             {
                 "name": "新潤",
                 "code": "6186",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.5,
                 "shares": 1000,
-                "currentPrice": 31.45,
+                "currentPrice": 32.0,
                 "isEmerging": false
             },
             {
@@ -27,7 +53,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.8,
                 "shares": 1000,
-                "currentPrice": 39.15,
+                "currentPrice": 38.2,
                 "isEmerging": false
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 24.0,
+                "currentPrice": 23.95,
                 "isEmerging": true
             },
             {
@@ -53,7 +79,7 @@
                 "disburseDate": "115/09/17",
                 "subPrice": 169.0,
                 "shares": 1000,
-                "currentPrice": 240.0,
+                "currentPrice": 221.0,
                 "isEmerging": false
             },
             {
@@ -66,7 +92,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 14.0,
                 "shares": 2000,
-                "currentPrice": 16.8,
+                "currentPrice": 16.6,
                 "isEmerging": false
             },
             {
@@ -79,7 +105,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 310.0,
                 "shares": 1000,
-                "currentPrice": 341.5,
+                "currentPrice": 314.0,
                 "isEmerging": false
             },
             {
@@ -92,7 +118,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 83.0,
                 "shares": 1000,
-                "currentPrice": 90.3,
+                "currentPrice": 89.1,
                 "isEmerging": false
             },
             {
@@ -105,21 +131,8 @@
                 "disburseDate": "115/09/15",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 23.3,
+                "currentPrice": 23.4,
                 "isEmerging": false
-            },
-            {
-                "name": "和亞智慧",
-                "code": "7825",
-                "market": "初上櫃",
-                "startDate": "115/08/31",
-                "endDate": "115/09/02",
-                "lotteryDate": "115/09/04",
-                "disburseDate": "115/09/10",
-                "subPrice": 48.88,
-                "shares": 1000,
-                "currentPrice": 96.0,
-                "isEmerging": true
             }
         ]
     }
