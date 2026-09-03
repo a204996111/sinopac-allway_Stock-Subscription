@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-03 13:35",
+        "update_time": "2026-09-03 18:58",
         "list": [
             {
                 "name": "漢測",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 4765.0,
+                "currentPrice": 4520.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/21",
                 "subPrice": 165.0,
                 "shares": 1000,
-                "currentPrice": 218.5,
+                "currentPrice": 218.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.5,
                 "shares": 1000,
-                "currentPrice": 32.0,
+                "currentPrice": 31.75,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.8,
                 "shares": 1000,
-                "currentPrice": 38.2,
+                "currentPrice": 38.05,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 23.95,
+                "currentPrice": 22.95,
                 "isEmerging": true
             },
             {
@@ -79,7 +79,7 @@
                 "disburseDate": "115/09/17",
                 "subPrice": 169.0,
                 "shares": 1000,
-                "currentPrice": 221.0,
+                "currentPrice": 217.5,
                 "isEmerging": false
             },
             {
@@ -92,7 +92,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 14.0,
                 "shares": 2000,
-                "currentPrice": 16.6,
+                "currentPrice": 16.7,
                 "isEmerging": false
             },
             {
@@ -105,7 +105,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 310.0,
                 "shares": 1000,
-                "currentPrice": 314.0,
+                "currentPrice": 307.5,
                 "isEmerging": false
             },
             {
@@ -118,7 +118,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 83.0,
                 "shares": 1000,
-                "currentPrice": 89.1,
+                "currentPrice": 88.4,
                 "isEmerging": false
             },
             {
@@ -131,7 +131,7 @@
                 "disburseDate": "115/09/15",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 23.4,
+                "currentPrice": 23.35,
                 "isEmerging": false
             }
         ]
