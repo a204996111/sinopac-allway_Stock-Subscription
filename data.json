@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-03 18:58",
+        "update_time": "2026-09-04 13:41",
         "list": [
             {
                 "name": "漢測",
@@ -14,8 +14,60 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 4520.0,
+                "currentPrice": 4835.0,
                 "isEmerging": true
+            },
+            {
+                "name": "天瀚",
+                "code": "6225",
+                "market": "上市增資",
+                "startDate": "115/09/08",
+                "endDate": "115/09/10",
+                "lotteryDate": "115/09/14",
+                "disburseDate": "115/09/22",
+                "subPrice": 17.65,
+                "shares": 1000,
+                "currentPrice": 60.0,
+                "isEmerging": false
+            },
+            {
+                "name": "巨虹",
+                "code": "8084",
+                "market": "上櫃增資",
+                "startDate": "115/09/08",
+                "endDate": "115/09/10",
+                "lotteryDate": "115/09/14",
+                "disburseDate": "115/09/22",
+                "subPrice": 45.6,
+                "shares": 1000,
+                "currentPrice": 45.95,
+                "isEmerging": false
+            },
+            {
+                "name": "嘉晶",
+                "code": "3016",
+                "market": "上市增資",
+                "startDate": "115/09/08",
+                "endDate": "115/09/10",
+                "lotteryDate": "115/09/14",
+                "disburseDate": "115/09/22",
+                "subPrice": 82.0,
+                "shares": 1000,
+                "currentPrice": 101.5,
+                "isEmerging": false
+            },
+            {
+                "name": "jpp-KY",
+                "code": "5284",
+                "market": "第一上市公司現金增資",
+                "startDate": "115/09/08",
+                "endDate": "115/09/10",
+                "lotteryDate": "115/09/14",
+                "disburseDate": "115/09/22",
+                "subPrice": 250.0,
+                "shares": 1000,
+                "currentPrice": 331.0,
+                "isEmerging": false
             },
             {
                 "name": "信紘科",
@@ -27,7 +79,7 @@
                 "disburseDate": "115/09/21",
                 "subPrice": 165.0,
                 "shares": 1000,
-                "currentPrice": 218.0,
+                "currentPrice": 239.5,
                 "isEmerging": false
             },
             {
@@ -40,7 +92,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.5,
                 "shares": 1000,
-                "currentPrice": 31.75,
+                "currentPrice": 31.8,
                 "isEmerging": false
             },
             {
@@ -53,7 +105,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.8,
                 "shares": 1000,
-                "currentPrice": 38.05,
+                "currentPrice": 38.25,
                 "isEmerging": false
             },
             {
@@ -66,7 +118,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 22.95,
+                "currentPrice": 23.0,
                 "isEmerging": true
             },
             {
@@ -79,7 +131,7 @@
                 "disburseDate": "115/09/17",
                 "subPrice": 169.0,
                 "shares": 1000,
-                "currentPrice": 217.5,
+                "currentPrice": 230.0,
                 "isEmerging": false
             },
             {
@@ -92,7 +144,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 14.0,
                 "shares": 2000,
-                "currentPrice": 16.7,
+                "currentPrice": 16.5,
                 "isEmerging": false
             },
             {
@@ -105,7 +157,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 310.0,
                 "shares": 1000,
-                "currentPrice": 307.5,
+                "currentPrice": 319.5,
                 "isEmerging": false
             },
             {
@@ -118,20 +170,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 83.0,
                 "shares": 1000,
-                "currentPrice": 88.4,
-                "isEmerging": false
-            },
-            {
-                "name": "坤悅",
-                "code": "5206",
-                "market": "上櫃增資",
-                "startDate": "115/09/01",
-                "endDate": "115/09/03",
-                "lotteryDate": "115/09/07",
-                "disburseDate": "115/09/15",
-                "subPrice": 20.0,
-                "shares": 1000,
-                "currentPrice": 23.35,
+                "currentPrice": 88.1,
                 "isEmerging": false
             }
         ]
