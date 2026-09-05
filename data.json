@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-04 18:59",
+        "update_time": "2026-09-05 13:29",
         "list": [
             {
                 "name": "漢測",
@@ -132,45 +132,6 @@
                 "subPrice": 169.0,
                 "shares": 1000,
                 "currentPrice": 231.5,
-                "isEmerging": false
-            },
-            {
-                "name": "樂事綠能",
-                "code": "1529",
-                "market": "上市增資",
-                "startDate": "115/09/02",
-                "endDate": "115/09/04",
-                "lotteryDate": "115/09/08",
-                "disburseDate": "115/09/16",
-                "subPrice": 14.0,
-                "shares": 2000,
-                "currentPrice": 16.45,
-                "isEmerging": false
-            },
-            {
-                "name": "嘉基",
-                "code": "6715",
-                "market": "上市增資",
-                "startDate": "115/09/02",
-                "endDate": "115/09/04",
-                "lotteryDate": "115/09/08",
-                "disburseDate": "115/09/16",
-                "subPrice": 310.0,
-                "shares": 1000,
-                "currentPrice": 320.0,
-                "isEmerging": false
-            },
-            {
-                "name": "世紀鋼",
-                "code": "9958",
-                "market": "上市增資",
-                "startDate": "115/09/02",
-                "endDate": "115/09/04",
-                "lotteryDate": "115/09/08",
-                "disburseDate": "115/09/16",
-                "subPrice": 83.0,
-                "shares": 1000,
-                "currentPrice": 88.1,
                 "isEmerging": false
             }
         ]
