@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-07 13:53",
+        "update_time": "2026-09-07 20:07",
         "list": [
             {
                 "name": "漢測",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 4835.0,
+                "currentPrice": 4700.0,
                 "isEmerging": true
             },
             {
@@ -118,7 +118,7 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 22.1,
+                "currentPrice": 22.2,
                 "isEmerging": true
             },
             {
