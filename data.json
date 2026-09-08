@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-07 20:07",
+        "update_time": "2026-09-08 13:45",
         "list": [
+            {
+                "name": "光環",
+                "code": "3234",
+                "market": "上櫃增資",
+                "startDate": "115/09/10",
+                "endDate": "115/09/14",
+                "lotteryDate": "115/09/16",
+                "disburseDate": "115/09/24",
+                "subPrice": 110.0,
+                "shares": 1000,
+                "currentPrice": 197.0,
+                "isEmerging": false
+            },
             {
                 "name": "漢測",
                 "code": "7856",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 4700.0,
+                "currentPrice": 4735.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 17.65,
                 "shares": 1000,
-                "currentPrice": 60.9,
+                "currentPrice": 61.5,
                 "isEmerging": false
             },
             {
@@ -40,7 +53,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 45.6,
                 "shares": 1000,
-                "currentPrice": 45.4,
+                "currentPrice": 45.55,
                 "isEmerging": false
             },
             {
@@ -53,7 +66,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 82.0,
                 "shares": 1000,
-                "currentPrice": 100.5,
+                "currentPrice": 101.5,
                 "isEmerging": false
             },
             {
@@ -66,7 +79,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 250.0,
                 "shares": 1000,
-                "currentPrice": 318.5,
+                "currentPrice": 309.0,
                 "isEmerging": false
             },
             {
@@ -79,7 +92,7 @@
                 "disburseDate": "115/09/21",
                 "subPrice": 165.0,
                 "shares": 1000,
-                "currentPrice": 255.0,
+                "currentPrice": 252.0,
                 "isEmerging": false
             },
             {
@@ -92,7 +105,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.5,
                 "shares": 1000,
-                "currentPrice": 30.5,
+                "currentPrice": 30.65,
                 "isEmerging": false
             },
             {
@@ -105,7 +118,7 @@
                 "disburseDate": "115/09/18",
                 "subPrice": 28.8,
                 "shares": 1000,
-                "currentPrice": 38.0,
+                "currentPrice": 37.75,
                 "isEmerging": false
             },
             {
@@ -118,21 +131,8 @@
                 "disburseDate": "115/09/16",
                 "subPrice": 18.0,
                 "shares": 1000,
-                "currentPrice": 22.2,
+                "currentPrice": 22.1,
                 "isEmerging": true
-            },
-            {
-                "name": "雙鍵",
-                "code": "4764",
-                "market": "上市增資",
-                "startDate": "115/09/03",
-                "endDate": "115/09/07",
-                "lotteryDate": "115/09/09",
-                "disburseDate": "115/09/17",
-                "subPrice": 169.0,
-                "shares": 1000,
-                "currentPrice": 228.0,
-                "isEmerging": false
             }
         ]
     }
