@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-09 13:50",
+        "update_time": "2026-09-09 19:04",
         "list": [
             {
                 "name": "光環",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/24",
                 "subPrice": 110.0,
                 "shares": 1000,
-                "currentPrice": 200.5,
+                "currentPrice": 200.0,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 4825.0,
+                "currentPrice": 4885.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 45.6,
                 "shares": 1000,
-                "currentPrice": 45.35,
+                "currentPrice": 45.4,
                 "isEmerging": false
             },
             {
