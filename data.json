@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-08 18:59",
+        "update_time": "2026-09-09 13:50",
         "list": [
             {
                 "name": "光環",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/09/24",
                 "subPrice": 110.0,
                 "shares": 1000,
-                "currentPrice": 197.0,
+                "currentPrice": 200.5,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 4710.0,
+                "currentPrice": 4825.0,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 17.65,
                 "shares": 1000,
-                "currentPrice": 61.5,
+                "currentPrice": 67.6,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 45.6,
                 "shares": 1000,
-                "currentPrice": 45.3,
+                "currentPrice": 45.35,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 82.0,
                 "shares": 1000,
-                "currentPrice": 101.5,
+                "currentPrice": 100.0,
                 "isEmerging": false
             },
             {
@@ -79,7 +79,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 250.0,
                 "shares": 1000,
-                "currentPrice": 309.5,
+                "currentPrice": 314.0,
                 "isEmerging": false
             },
             {
@@ -92,47 +92,8 @@
                 "disburseDate": "115/09/21",
                 "subPrice": 165.0,
                 "shares": 1000,
-                "currentPrice": 250.0,
+                "currentPrice": 250.5,
                 "isEmerging": false
-            },
-            {
-                "name": "新潤",
-                "code": "6186",
-                "market": "上櫃增資",
-                "startDate": "115/09/04",
-                "endDate": "115/09/08",
-                "lotteryDate": "115/09/10",
-                "disburseDate": "115/09/18",
-                "subPrice": 28.5,
-                "shares": 1000,
-                "currentPrice": 30.5,
-                "isEmerging": false
-            },
-            {
-                "name": "能率亞洲",
-                "code": "7777",
-                "market": "上櫃增資",
-                "startDate": "115/09/04",
-                "endDate": "115/09/08",
-                "lotteryDate": "115/09/10",
-                "disburseDate": "115/09/18",
-                "subPrice": 28.8,
-                "shares": 1000,
-                "currentPrice": 37.6,
-                "isEmerging": false
-            },
-            {
-                "name": "床的世界",
-                "code": "2938",
-                "market": "初上櫃",
-                "startDate": "115/09/04",
-                "endDate": "115/09/08",
-                "lotteryDate": "115/09/10",
-                "disburseDate": "115/09/16",
-                "subPrice": 18.0,
-                "shares": 1000,
-                "currentPrice": 22.1,
-                "isEmerging": true
             }
         ]
     }
