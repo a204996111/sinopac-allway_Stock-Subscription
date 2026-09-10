@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-10 13:44",
+        "update_time": "2026-09-10 19:00",
         "list": [
             {
                 "name": "眾達-KY",
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/24",
                 "subPrice": 110.0,
                 "shares": 1000,
-                "currentPrice": 194.0,
+                "currentPrice": 195.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 5210.0,
+                "currentPrice": 5235.0,
                 "isEmerging": true
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 45.6,
                 "shares": 1000,
-                "currentPrice": 45.25,
+                "currentPrice": 45.3,
                 "isEmerging": false
             },
             {
@@ -92,7 +92,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 250.0,
                 "shares": 1000,
-                "currentPrice": 309.0,
+                "currentPrice": 308.0,
                 "isEmerging": false
             }
         ]
