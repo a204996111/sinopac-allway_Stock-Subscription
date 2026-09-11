@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-10 19:00",
+        "update_time": "2026-09-11 13:44",
         "list": [
+            {
+                "name": "盟立",
+                "code": "2464",
+                "market": "上市增資",
+                "startDate": "115/09/15",
+                "endDate": "115/09/17",
+                "lotteryDate": "115/09/21",
+                "disburseDate": "115/10/01",
+                "subPrice": 138.0,
+                "shares": 1000,
+                "currentPrice": 188.0,
+                "isEmerging": false
+            },
             {
                 "name": "眾達-KY",
                 "code": "4977",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/09/30",
                 "subPrice": 105.0,
                 "shares": 1000,
-                "currentPrice": 173.0,
+                "currentPrice": 174.0,
                 "isEmerging": false
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/09/24",
                 "subPrice": 110.0,
                 "shares": 1000,
-                "currentPrice": 195.0,
+                "currentPrice": 186.5,
                 "isEmerging": false
             },
             {
@@ -40,60 +53,8 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 5235.0,
+                "currentPrice": 5225.0,
                 "isEmerging": true
-            },
-            {
-                "name": "天瀚",
-                "code": "6225",
-                "market": "上市增資",
-                "startDate": "115/09/08",
-                "endDate": "115/09/10",
-                "lotteryDate": "115/09/14",
-                "disburseDate": "115/09/22",
-                "subPrice": 17.65,
-                "shares": 1000,
-                "currentPrice": 74.3,
-                "isEmerging": false
-            },
-            {
-                "name": "巨虹",
-                "code": "8084",
-                "market": "上櫃增資",
-                "startDate": "115/09/08",
-                "endDate": "115/09/10",
-                "lotteryDate": "115/09/14",
-                "disburseDate": "115/09/22",
-                "subPrice": 45.6,
-                "shares": 1000,
-                "currentPrice": 45.3,
-                "isEmerging": false
-            },
-            {
-                "name": "嘉晶",
-                "code": "3016",
-                "market": "上市增資",
-                "startDate": "115/09/08",
-                "endDate": "115/09/10",
-                "lotteryDate": "115/09/14",
-                "disburseDate": "115/09/22",
-                "subPrice": 82.0,
-                "shares": 1000,
-                "currentPrice": 110.0,
-                "isEmerging": false
-            },
-            {
-                "name": "jpp-KY",
-                "code": "5284",
-                "market": "第一上市公司現金增資",
-                "startDate": "115/09/08",
-                "endDate": "115/09/10",
-                "lotteryDate": "115/09/14",
-                "disburseDate": "115/09/22",
-                "subPrice": 250.0,
-                "shares": 1000,
-                "currentPrice": 308.0,
-                "isEmerging": false
             }
         ]
     }
