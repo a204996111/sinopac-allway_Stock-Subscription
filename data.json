@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-11 13:44",
+        "update_time": "2026-09-11 18:58",
         "list": [
             {
                 "name": "盟立",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/01",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 188.0,
+                "currentPrice": 188.5,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/09/30",
                 "subPrice": 105.0,
                 "shares": 1000,
-                "currentPrice": 174.0,
+                "currentPrice": 175.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/09/24",
                 "subPrice": 110.0,
                 "shares": 1000,
-                "currentPrice": 186.5,
+                "currentPrice": 187.5,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 5225.0,
+                "currentPrice": 5190.0,
                 "isEmerging": true
             }
         ]
