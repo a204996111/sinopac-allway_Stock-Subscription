@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-11 18:58",
+        "update_time": "2026-09-12 13:31",
         "list": [
             {
                 "name": "盟立",
@@ -53,7 +53,7 @@
                 "disburseDate": "115/09/22",
                 "subPrice": 2250.0,
                 "shares": 1000,
-                "currentPrice": 5190.0,
+                "currentPrice": 5215.0,
                 "isEmerging": true
             }
         ]
