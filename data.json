@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-14 20:33",
+        "update_time": "2026-09-15 13:59",
         "list": [
+            {
+                "name": "儒億",
+                "code": "6604",
+                "market": "初上櫃",
+                "startDate": "115/09/22",
+                "endDate": "115/09/24",
+                "lotteryDate": "115/09/30",
+                "disburseDate": "115/10/06",
+                "subPrice": 24.0,
+                "shares": 1000,
+                "currentPrice": 27.05,
+                "isEmerging": true
+            },
             {
                 "name": "盟立",
                 "code": "2464",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/10/01",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 175.5,
+                "currentPrice": 176.0,
                 "isEmerging": false
             },
             {
@@ -27,34 +40,8 @@
                 "disburseDate": "115/09/30",
                 "subPrice": 105.0,
                 "shares": 1000,
-                "currentPrice": 167.0,
+                "currentPrice": 160.5,
                 "isEmerging": false
-            },
-            {
-                "name": "光環",
-                "code": "3234",
-                "market": "上櫃增資",
-                "startDate": "115/09/10",
-                "endDate": "115/09/14",
-                "lotteryDate": "115/09/16",
-                "disburseDate": "115/09/24",
-                "subPrice": 110.0,
-                "shares": 1000,
-                "currentPrice": 174.0,
-                "isEmerging": false
-            },
-            {
-                "name": "漢測",
-                "code": "7856",
-                "market": "初上櫃",
-                "startDate": "115/09/10",
-                "endDate": "115/09/14",
-                "lotteryDate": "115/09/16",
-                "disburseDate": "115/09/22",
-                "subPrice": 2250.0,
-                "shares": 1000,
-                "currentPrice": 4845.0,
-                "isEmerging": true
             }
         ]
     }
