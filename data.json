@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-16 13:49",
+        "update_time": "2026-09-16 19:15",
         "list": [
             {
                 "name": "儒億",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 27.95,
+                "currentPrice": 28.3,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/01",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 181.5,
+                "currentPrice": 183.0,
                 "isEmerging": false
             },
             {
