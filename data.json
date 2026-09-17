@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-16 19:15",
+        "update_time": "2026-09-17 13:56",
         "list": [
             {
                 "name": "儒億",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 28.3,
+                "currentPrice": 28.0,
                 "isEmerging": true
             },
             {
@@ -27,20 +27,7 @@
                 "disburseDate": "115/10/01",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 183.0,
-                "isEmerging": false
-            },
-            {
-                "name": "眾達-KY",
-                "code": "4977",
-                "market": "第一上市公司現金增資",
-                "startDate": "115/09/14",
-                "endDate": "115/09/16",
-                "lotteryDate": "115/09/18",
-                "disburseDate": "115/09/30",
-                "subPrice": 105.0,
-                "shares": 1000,
-                "currentPrice": 176.5,
+                "currentPrice": 179.5,
                 "isEmerging": false
             }
         ]
