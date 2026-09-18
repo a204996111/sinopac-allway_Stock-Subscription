@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-17 19:29",
+        "update_time": "2026-09-18 13:43",
         "list": [
             {
                 "name": "儒億",
@@ -14,21 +14,8 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 28.5,
+                "currentPrice": 28.4,
                 "isEmerging": true
-            },
-            {
-                "name": "盟立",
-                "code": "2464",
-                "market": "上市增資",
-                "startDate": "115/09/15",
-                "endDate": "115/09/17",
-                "lotteryDate": "115/09/21",
-                "disburseDate": "115/10/01",
-                "subPrice": 138.0,
-                "shares": 1000,
-                "currentPrice": 179.5,
-                "isEmerging": false
             }
         ]
     }
