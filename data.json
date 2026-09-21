@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-20 19:09",
+        "update_time": "2026-09-21 14:02",
         "list": [
+            {
+                "name": "晟田",
+                "code": "4541",
+                "market": "上櫃增資",
+                "startDate": "115/09/23",
+                "endDate": "115/09/29",
+                "lotteryDate": "115/10/01",
+                "disburseDate": "115/10/12",
+                "subPrice": 50.0,
+                "shares": 1000,
+                "currentPrice": 60.7,
+                "isEmerging": false
+            },
             {
                 "name": "儒億",
                 "code": "6604",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 28.35,
+                "currentPrice": 28.15,
                 "isEmerging": true
             }
         ]
