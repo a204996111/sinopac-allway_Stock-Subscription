@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-21 14:02",
+        "update_time": "2026-09-22 13:58",
         "list": [
             {
                 "name": "晟田",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/12",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 60.7,
+                "currentPrice": 60.1,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 28.15,
+                "currentPrice": 28.95,
                 "isEmerging": true
             }
         ]
