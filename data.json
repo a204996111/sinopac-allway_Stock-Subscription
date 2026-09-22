@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-22 13:58",
+        "update_time": "2026-09-22 19:25",
         "list": [
+            {
+                "name": "旭暉應材",
+                "code": "6698",
+                "market": "上市增資",
+                "startDate": "115/09/24",
+                "endDate": "115/09/30",
+                "lotteryDate": "115/10/02",
+                "disburseDate": "115/10/13",
+                "subPrice": 25.5,
+                "shares": 1000,
+                "currentPrice": 31.35,
+                "isEmerging": false
+            },
             {
                 "name": "晟田",
                 "code": "4541",
@@ -27,7 +40,7 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 28.95,
+                "currentPrice": 28.75,
                 "isEmerging": true
             }
         ]
