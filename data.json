@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-22 19:25",
+        "update_time": "2026-09-23 13:43",
         "list": [
+            {
+                "name": "精華生醫",
+                "code": "7806",
+                "market": "初上櫃",
+                "startDate": "115/10/02",
+                "endDate": "115/10/06",
+                "lotteryDate": "115/10/08",
+                "disburseDate": "115/10/15",
+                "subPrice": 55.0,
+                "shares": 1000,
+                "currentPrice": 62.8,
+                "isEmerging": true
+            },
+            {
+                "name": "增你強",
+                "code": "3028",
+                "market": "上市增資",
+                "startDate": "115/09/29",
+                "endDate": "115/10/01",
+                "lotteryDate": "115/10/05",
+                "disburseDate": "115/10/14",
+                "subPrice": 58.0,
+                "shares": 1000,
+                "currentPrice": 61.7,
+                "isEmerging": false
+            },
             {
                 "name": "旭暉應材",
                 "code": "6698",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/10/13",
                 "subPrice": 25.5,
                 "shares": 1000,
-                "currentPrice": 31.35,
+                "currentPrice": 31.4,
                 "isEmerging": false
             },
             {
@@ -27,7 +53,7 @@
                 "disburseDate": "115/10/12",
                 "subPrice": 50.0,
                 "shares": 1000,
-                "currentPrice": 60.1,
+                "currentPrice": 58.7,
                 "isEmerging": false
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/10/06",
                 "subPrice": 24.0,
                 "shares": 1000,
-                "currentPrice": 28.75,
+                "currentPrice": 29.25,
                 "isEmerging": true
             }
         ]
