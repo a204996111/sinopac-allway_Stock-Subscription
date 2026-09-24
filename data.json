@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-24 13:58",
+        "update_time": "2026-09-24 19:36",
         "list": [
             {
                 "name": "精華生醫",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/15",
                 "subPrice": 55.0,
                 "shares": 1000,
-                "currentPrice": 63.0,
+                "currentPrice": 62.6,
                 "isEmerging": true
             },
             {
