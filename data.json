@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-24 19:36",
+        "update_time": "2026-09-25 14:00",
         "list": [
             {
                 "name": "精華生醫",
@@ -68,19 +68,6 @@
                 "shares": 1000,
                 "currentPrice": 59.3,
                 "isEmerging": false
-            },
-            {
-                "name": "儒億",
-                "code": "6604",
-                "market": "初上櫃",
-                "startDate": "115/09/22",
-                "endDate": "115/09/24",
-                "lotteryDate": "115/09/30",
-                "disburseDate": "115/10/06",
-                "subPrice": 24.0,
-                "shares": 1000,
-                "currentPrice": 28.8,
-                "isEmerging": true
             }
         ]
     }
