@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-29 14:42",
+        "update_time": "2026-09-30 14:30",
         "list": [
+            {
+                "name": "泰合",
+                "code": "6467",
+                "market": "初上市",
+                "startDate": "115/10/07",
+                "endDate": "115/10/12",
+                "lotteryDate": "115/10/14",
+                "disburseDate": "115/10/20",
+                "subPrice": 105.6,
+                "shares": 1000,
+                "currentPrice": 241.0,
+                "isEmerging": true
+            },
+            {
+                "name": "威剛",
+                "code": "3260",
+                "market": "上櫃增資",
+                "startDate": "115/10/02",
+                "endDate": "115/10/06",
+                "lotteryDate": "115/10/08",
+                "disburseDate": "115/10/19",
+                "subPrice": 290.0,
+                "shares": 1000,
+                "currentPrice": 377.5,
+                "isEmerging": false
+            },
             {
                 "name": "精華生醫",
                 "code": "7806",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/10/15",
                 "subPrice": 55.0,
                 "shares": 1000,
-                "currentPrice": 63.5,
+                "currentPrice": 62.9,
                 "isEmerging": true
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/10/14",
                 "subPrice": 58.0,
                 "shares": 1000,
-                "currentPrice": 62.7,
+                "currentPrice": 62.9,
                 "isEmerging": false
             },
             {
@@ -53,20 +79,7 @@
                 "disburseDate": "115/10/13",
                 "subPrice": 25.5,
                 "shares": 1000,
-                "currentPrice": 33.9,
-                "isEmerging": false
-            },
-            {
-                "name": "晟田",
-                "code": "4541",
-                "market": "上櫃增資",
-                "startDate": "115/09/23",
-                "endDate": "115/09/29",
-                "lotteryDate": "115/10/01",
-                "disburseDate": "115/10/12",
-                "subPrice": 50.0,
-                "shares": 1000,
-                "currentPrice": 59.3,
+                "currentPrice": 33.3,
                 "isEmerging": false
             }
         ]
