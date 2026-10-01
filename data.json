@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-09-30 14:30",
+        "update_time": "2026-10-01 15:03",
         "list": [
             {
                 "name": "泰合",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/20",
                 "subPrice": 105.6,
                 "shares": 1000,
-                "currentPrice": 241.0,
+                "currentPrice": 230.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/19",
                 "subPrice": 290.0,
                 "shares": 1000,
-                "currentPrice": 377.5,
+                "currentPrice": 380.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/10/15",
                 "subPrice": 55.0,
                 "shares": 1000,
-                "currentPrice": 62.9,
+                "currentPrice": 61.9,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/10/15",
                 "subPrice": 500.0,
                 "shares": 1000,
-                "currentPrice": 533.0,
+                "currentPrice": 531.0,
                 "isEmerging": false
             },
             {
@@ -66,20 +66,7 @@
                 "disburseDate": "115/10/14",
                 "subPrice": 58.0,
                 "shares": 1000,
-                "currentPrice": 62.9,
-                "isEmerging": false
-            },
-            {
-                "name": "旭暉應材",
-                "code": "6698",
-                "market": "上市增資",
-                "startDate": "115/09/24",
-                "endDate": "115/09/30",
-                "lotteryDate": "115/10/02",
-                "disburseDate": "115/10/13",
-                "subPrice": 25.5,
-                "shares": 1000,
-                "currentPrice": 33.3,
+                "currentPrice": 62.1,
                 "isEmerging": false
             }
         ]
