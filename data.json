@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-02 14:51",
+        "update_time": "2026-10-03 14:16",
         "list": [
             {
                 "name": "湧盛",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 86.0,
+                "currentPrice": 85.7,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/20",
                 "subPrice": 105.6,
                 "shares": 1000,
-                "currentPrice": 229.5,
+                "currentPrice": 232.5,
                 "isEmerging": true
             },
             {
@@ -55,19 +55,6 @@
                 "shares": 1000,
                 "currentPrice": 62.9,
                 "isEmerging": true
-            },
-            {
-                "name": "汎銓",
-                "code": "6830",
-                "market": "上市增資",
-                "startDate": "115/09/30",
-                "endDate": "115/10/02",
-                "lotteryDate": "115/10/06",
-                "disburseDate": "115/10/15",
-                "subPrice": 500.0,
-                "shares": 1000,
-                "currentPrice": 547.0,
-                "isEmerging": false
             }
         ]
     }
