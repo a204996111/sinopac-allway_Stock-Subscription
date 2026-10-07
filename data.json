@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-06 15:23",
+        "update_time": "2026-10-07 15:02",
         "list": [
             {
                 "name": "東擎科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/27",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 199.0,
+                "currentPrice": 202.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/23",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 85.5,
+                "currentPrice": 86.3,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/10/23",
                 "subPrice": 68.0,
                 "shares": 1000,
-                "currentPrice": 88.7,
+                "currentPrice": 90.3,
                 "isEmerging": true
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/10/22",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 24.15,
+                "currentPrice": 23.9,
                 "isEmerging": false
             },
             {
@@ -79,33 +79,7 @@
                 "disburseDate": "115/10/20",
                 "subPrice": 105.6,
                 "shares": 1000,
-                "currentPrice": 220.5,
-                "isEmerging": true
-            },
-            {
-                "name": "威剛",
-                "code": "3260",
-                "market": "上櫃增資",
-                "startDate": "115/10/02",
-                "endDate": "115/10/06",
-                "lotteryDate": "115/10/08",
-                "disburseDate": "115/10/19",
-                "subPrice": 290.0,
-                "shares": 1000,
-                "currentPrice": 370.0,
-                "isEmerging": false
-            },
-            {
-                "name": "精華生醫",
-                "code": "7806",
-                "market": "初上櫃",
-                "startDate": "115/10/02",
-                "endDate": "115/10/06",
-                "lotteryDate": "115/10/08",
-                "disburseDate": "115/10/15",
-                "subPrice": 55.0,
-                "shares": 1000,
-                "currentPrice": 62.2,
+                "currentPrice": 216.0,
                 "isEmerging": true
             }
         ]
