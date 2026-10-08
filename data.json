@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-07 15:02",
+        "update_time": "2026-10-08 15:11",
         "list": [
+            {
+                "name": "和暢科技",
+                "code": "6825",
+                "market": "初上櫃",
+                "startDate": "115/10/16",
+                "endDate": "115/10/20",
+                "lotteryDate": "115/10/22",
+                "disburseDate": "115/10/29",
+                "subPrice": 25.0,
+                "shares": 1000,
+                "currentPrice": 39.0,
+                "isEmerging": true
+            },
+            {
+                "name": "特力屋",
+                "code": "7867",
+                "market": "初上市",
+                "startDate": "115/10/16",
+                "endDate": "115/10/20",
+                "lotteryDate": "115/10/22",
+                "disburseDate": "115/10/29",
+                "subPrice": 48.04,
+                "shares": 1000,
+                "currentPrice": 53.5,
+                "isEmerging": true
+            },
             {
                 "name": "東擎科技",
                 "code": "7710",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/10/27",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 202.5,
+                "currentPrice": 197.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +53,7 @@
                 "disburseDate": "115/10/23",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 86.3,
+                "currentPrice": 83.1,
                 "isEmerging": true
             },
             {
@@ -40,7 +66,7 @@
                 "disburseDate": "115/10/23",
                 "subPrice": 68.0,
                 "shares": 1000,
-                "currentPrice": 90.3,
+                "currentPrice": 89.2,
                 "isEmerging": true
             },
             {
@@ -53,7 +79,7 @@
                 "disburseDate": "115/10/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 81.5,
+                "currentPrice": 84.0,
                 "isEmerging": true
             },
             {
@@ -66,7 +92,7 @@
                 "disburseDate": "115/10/22",
                 "subPrice": 20.0,
                 "shares": 1000,
-                "currentPrice": 23.9,
+                "currentPrice": 24.1,
                 "isEmerging": false
             },
             {
@@ -79,7 +105,7 @@
                 "disburseDate": "115/10/20",
                 "subPrice": 105.6,
                 "shares": 1000,
-                "currentPrice": 216.0,
+                "currentPrice": 225.0,
                 "isEmerging": true
             }
         ]
