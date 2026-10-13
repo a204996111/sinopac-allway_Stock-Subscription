@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-12 15:09",
+        "update_time": "2026-10-13 15:33",
         "list": [
             {
                 "name": "和暢科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 25.0,
                 "shares": 1000,
-                "currentPrice": 37.75,
+                "currentPrice": 35.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 48.04,
                 "shares": 1000,
-                "currentPrice": 52.0,
+                "currentPrice": 51.5,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/10/27",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 200.0,
+                "currentPrice": 199.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/10/23",
                 "subPrice": 60.0,
                 "shares": 1000,
-                "currentPrice": 83.0,
+                "currentPrice": 79.9,
                 "isEmerging": true
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/10/23",
                 "subPrice": 68.0,
                 "shares": 1000,
-                "currentPrice": 87.5,
+                "currentPrice": 81.0,
                 "isEmerging": true
             },
             {
@@ -79,33 +79,7 @@
                 "disburseDate": "115/10/22",
                 "subPrice": 66.0,
                 "shares": 1000,
-                "currentPrice": 82.5,
-                "isEmerging": true
-            },
-            {
-                "name": "佳龍",
-                "code": "9955",
-                "market": "上市增資",
-                "startDate": "115/10/07",
-                "endDate": "115/10/12",
-                "lotteryDate": "115/10/14",
-                "disburseDate": "115/10/22",
-                "subPrice": 20.0,
-                "shares": 1000,
-                "currentPrice": 23.95,
-                "isEmerging": false
-            },
-            {
-                "name": "泰合",
-                "code": "6467",
-                "market": "初上市",
-                "startDate": "115/10/07",
-                "endDate": "115/10/12",
-                "lotteryDate": "115/10/14",
-                "disburseDate": "115/10/20",
-                "subPrice": 105.6,
-                "shares": 1000,
-                "currentPrice": 232.0,
+                "currentPrice": 78.7,
                 "isEmerging": true
             }
         ]
