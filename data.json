@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-16 13:40",
+        "update_time": "2026-10-16 19:06",
         "list": [
             {
                 "name": "和暢科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 25.0,
                 "shares": 1000,
-                "currentPrice": 31.4,
+                "currentPrice": 31.8,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 48.04,
                 "shares": 1000,
-                "currentPrice": 50.8,
+                "currentPrice": 50.0,
                 "isEmerging": true
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/10/27",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 178.0,
+                "currentPrice": 181.5,
                 "isEmerging": true
             }
         ]
