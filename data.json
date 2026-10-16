@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-15 19:11",
+        "update_time": "2026-10-16 13:40",
         "list": [
             {
                 "name": "和暢科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 25.0,
                 "shares": 1000,
-                "currentPrice": 30.9,
+                "currentPrice": 31.4,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 48.04,
                 "shares": 1000,
-                "currentPrice": 52.1,
+                "currentPrice": 50.8,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/11/02",
                 "subPrice": 195.0,
                 "shares": 1000,
-                "currentPrice": 294.5,
+                "currentPrice": 323.5,
                 "isEmerging": false
             },
             {
@@ -53,33 +53,7 @@
                 "disburseDate": "115/10/27",
                 "subPrice": 138.0,
                 "shares": 1000,
-                "currentPrice": 189.0,
-                "isEmerging": true
-            },
-            {
-                "name": "程曦資訊",
-                "code": "6898",
-                "market": "初上櫃",
-                "startDate": "115/10/13",
-                "endDate": "115/10/15",
-                "lotteryDate": "115/10/19",
-                "disburseDate": "115/10/23",
-                "subPrice": 60.0,
-                "shares": 1000,
-                "currentPrice": 75.4,
-                "isEmerging": true
-            },
-            {
-                "name": "藍新資訊",
-                "code": "6938",
-                "market": "初上櫃",
-                "startDate": "115/10/13",
-                "endDate": "115/10/15",
-                "lotteryDate": "115/10/19",
-                "disburseDate": "115/10/23",
-                "subPrice": 68.0,
-                "shares": 1000,
-                "currentPrice": 80.9,
+                "currentPrice": 178.0,
                 "isEmerging": true
             }
         ]
