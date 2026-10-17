@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-16 19:06",
+        "update_time": "2026-10-17 13:25",
         "list": [
             {
                 "name": "和暢科技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 25.0,
                 "shares": 1000,
-                "currentPrice": 31.8,
+                "currentPrice": 30.5,
                 "isEmerging": true
             },
             {
@@ -42,19 +42,6 @@
                 "shares": 1000,
                 "currentPrice": 323.5,
                 "isEmerging": false
-            },
-            {
-                "name": "東擎科技",
-                "code": "7710",
-                "market": "初上市",
-                "startDate": "115/10/14",
-                "endDate": "115/10/16",
-                "lotteryDate": "115/10/20",
-                "disburseDate": "115/10/27",
-                "subPrice": 138.0,
-                "shares": 1000,
-                "currentPrice": 181.5,
-                "isEmerging": true
             }
         ]
     }
