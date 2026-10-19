@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-19 13:55",
+        "update_time": "2026-10-19 20:44",
         "list": [
             {
                 "name": "尖點",
@@ -40,7 +40,7 @@
                 "disburseDate": "115/10/29",
                 "subPrice": 48.04,
                 "shares": 1000,
-                "currentPrice": 51.0,
+                "currentPrice": 50.9,
                 "isEmerging": true
             },
             {
