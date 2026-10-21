@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-20 19:15",
+        "update_time": "2026-10-21 13:50",
         "list": [
+            {
+                "name": "普誠",
+                "code": "6129",
+                "market": "上櫃增資",
+                "startDate": "115/10/23",
+                "endDate": "115/10/28",
+                "lotteryDate": "115/10/30",
+                "disburseDate": "115/11/09",
+                "subPrice": 11.75,
+                "shares": 1000,
+                "currentPrice": 14.1,
+                "isEmerging": false
+            },
             {
                 "name": "尖點",
                 "code": "8021",
@@ -14,46 +27,7 @@
                 "disburseDate": "115/11/05",
                 "subPrice": 388.0,
                 "shares": 1000,
-                "currentPrice": 489.0,
-                "isEmerging": false
-            },
-            {
-                "name": "和暢科技",
-                "code": "6825",
-                "market": "初上櫃",
-                "startDate": "115/10/16",
-                "endDate": "115/10/20",
-                "lotteryDate": "115/10/22",
-                "disburseDate": "115/10/29",
-                "subPrice": 25.0,
-                "shares": 1000,
-                "currentPrice": 29.75,
-                "isEmerging": true
-            },
-            {
-                "name": "特力屋",
-                "code": "7867",
-                "market": "初上市",
-                "startDate": "115/10/16",
-                "endDate": "115/10/20",
-                "lotteryDate": "115/10/22",
-                "disburseDate": "115/10/29",
-                "subPrice": 48.04,
-                "shares": 1000,
-                "currentPrice": 50.3,
-                "isEmerging": true
-            },
-            {
-                "name": "晶心科",
-                "code": "6533",
-                "market": "上市增資",
-                "startDate": "115/10/16",
-                "endDate": "115/10/20",
-                "lotteryDate": "115/10/22",
-                "disburseDate": "115/11/02",
-                "subPrice": 195.0,
-                "shares": 1000,
-                "currentPrice": 281.5,
+                "currentPrice": 506.0,
                 "isEmerging": false
             }
         ]
