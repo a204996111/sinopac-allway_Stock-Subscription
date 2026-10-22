@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-21 19:31",
+        "update_time": "2026-10-22 13:54",
         "list": [
             {
                 "name": "普誠",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/11/09",
                 "subPrice": 11.75,
                 "shares": 1000,
-                "currentPrice": 14.1,
+                "currentPrice": 13.6,
                 "isEmerging": false
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/11/05",
                 "subPrice": 388.0,
                 "shares": 1000,
-                "currentPrice": 506.0,
+                "currentPrice": 479.0,
                 "isEmerging": false
             }
         ]
