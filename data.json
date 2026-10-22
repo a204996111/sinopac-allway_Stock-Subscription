@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-22 13:54",
+        "update_time": "2026-10-22 19:31",
         "list": [
+            {
+                "name": "東森",
+                "code": "2614",
+                "market": "上市增資",
+                "startDate": "115/10/28",
+                "endDate": "115/10/30",
+                "lotteryDate": "115/11/03",
+                "disburseDate": "115/11/11",
+                "subPrice": 12.8,
+                "shares": 2000,
+                "currentPrice": 14.65,
+                "isEmerging": false
+            },
             {
                 "name": "普誠",
                 "code": "6129",
