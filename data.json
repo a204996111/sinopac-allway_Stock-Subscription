@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-22 19:31",
+        "update_time": "2026-10-23 13:51",
         "list": [
             {
                 "name": "東森",
@@ -35,9 +35,9 @@
                 "code": "8021",
                 "market": "上市增資",
                 "startDate": "115/10/21",
-                "endDate": "115/10/23",
-                "lotteryDate": "115/10/28",
-                "disburseDate": "115/11/05",
+                "endDate": "115/10/27",
+                "lotteryDate": "115/10/29",
+                "disburseDate": "115/11/06",
                 "subPrice": 388.0,
                 "shares": 1000,
                 "currentPrice": 479.0,
