@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-27 14:06",
+        "update_time": "2026-10-28 14:44",
         "list": [
+            {
+                "name": "騏億鑫",
+                "code": "7848",
+                "market": "初上櫃",
+                "startDate": "115/11/04",
+                "endDate": "115/11/06",
+                "lotteryDate": "115/11/10",
+                "disburseDate": "115/11/16",
+                "subPrice": 252.0,
+                "shares": 1000,
+                "currentPrice": 368.0,
+                "isEmerging": true
+            },
             {
                 "name": "東森",
                 "code": "2614",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/11/11",
                 "subPrice": 12.8,
                 "shares": 2000,
-                "currentPrice": 14.15,
+                "currentPrice": 14.2,
                 "isEmerging": false
             },
             {
@@ -28,19 +41,6 @@
                 "subPrice": 11.75,
                 "shares": 1000,
                 "currentPrice": 13.45,
-                "isEmerging": false
-            },
-            {
-                "name": "尖點",
-                "code": "8021",
-                "market": "上市增資",
-                "startDate": "115/10/21",
-                "endDate": "115/10/27",
-                "lotteryDate": "115/10/29",
-                "disburseDate": "115/11/06",
-                "subPrice": 388.0,
-                "shares": 1000,
-                "currentPrice": 433.0,
                 "isEmerging": false
             }
         ]
