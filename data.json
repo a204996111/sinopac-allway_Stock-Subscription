@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-10-30 14:55",
+        "update_time": "2026-10-31 14:49",
         "list": [
             {
                 "name": "騏億鑫",
@@ -14,21 +14,8 @@
                 "disburseDate": "115/11/16",
                 "subPrice": 252.0,
                 "shares": 1000,
-                "currentPrice": 326.0,
+                "currentPrice": 337.0,
                 "isEmerging": true
-            },
-            {
-                "name": "東森",
-                "code": "2614",
-                "market": "上市增資",
-                "startDate": "115/10/28",
-                "endDate": "115/10/30",
-                "lotteryDate": "115/11/03",
-                "disburseDate": "115/11/11",
-                "subPrice": 12.8,
-                "shares": 2000,
-                "currentPrice": 13.75,
-                "isEmerging": false
             }
         ]
     }
