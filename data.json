@@ -2,8 +2,34 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-01 15:15",
+        "update_time": "2026-11-02 15:30",
         "list": [
+            {
+                "name": "宏偉",
+                "code": "4565",
+                "market": "初上櫃",
+                "startDate": "115/11/09",
+                "endDate": "115/11/11",
+                "lotteryDate": "115/11/13",
+                "disburseDate": "115/11/19",
+                "subPrice": 90.0,
+                "shares": 1000,
+                "currentPrice": 127.0,
+                "isEmerging": true
+            },
+            {
+                "name": "耐特",
+                "code": "8058",
+                "market": "初上市",
+                "startDate": "115/11/09",
+                "endDate": "115/11/11",
+                "lotteryDate": "115/11/13",
+                "disburseDate": "115/11/19",
+                "subPrice": 80.0,
+                "shares": 1000,
+                "currentPrice": 97.1,
+                "isEmerging": true
+            },
             {
                 "name": "騏億鑫",
                 "code": "7848",
@@ -14,7 +40,7 @@
                 "disburseDate": "115/11/16",
                 "subPrice": 252.0,
                 "shares": 1000,
-                "currentPrice": 337.0,
+                "currentPrice": 320.0,
                 "isEmerging": true
             }
         ]
