@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-02 15:30",
+        "update_time": "2026-11-03 15:44",
         "list": [
             {
                 "name": "宏偉",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 90.0,
                 "shares": 1000,
-                "currentPrice": 127.0,
+                "currentPrice": 129.0,
                 "isEmerging": true
             },
             {
@@ -27,8 +27,34 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 97.1,
+                "currentPrice": 90.0,
                 "isEmerging": true
+            },
+            {
+                "name": "永豐金",
+                "code": "2890",
+                "market": "上市增資",
+                "startDate": "115/11/05",
+                "endDate": "115/11/09",
+                "lotteryDate": "115/11/11",
+                "disburseDate": "115/11/19",
+                "subPrice": 35.15,
+                "shares": 3000,
+                "currentPrice": 44.4,
+                "isEmerging": false
+            },
+            {
+                "name": "金山電",
+                "code": "8042",
+                "market": "上櫃增資",
+                "startDate": "115/11/05",
+                "endDate": "115/11/09",
+                "lotteryDate": "115/11/11",
+                "disburseDate": "115/11/19",
+                "subPrice": 98.0,
+                "shares": 1000,
+                "currentPrice": 121.0,
+                "isEmerging": false
             },
             {
                 "name": "騏億鑫",
@@ -40,7 +66,7 @@
                 "disburseDate": "115/11/16",
                 "subPrice": 252.0,
                 "shares": 1000,
-                "currentPrice": 320.0,
+                "currentPrice": 305.0,
                 "isEmerging": true
             }
         ]
