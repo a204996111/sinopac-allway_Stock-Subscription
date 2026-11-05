@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-04 15:22",
+        "update_time": "2026-11-05 15:49",
         "list": [
             {
                 "name": "宏偉",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 90.0,
                 "shares": 1000,
-                "currentPrice": 127.0,
+                "currentPrice": 121.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 89.0,
+                "currentPrice": 86.1,
                 "isEmerging": true
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 35.15,
                 "shares": 3000,
-                "currentPrice": 43.15,
+                "currentPrice": 42.9,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 98.0,
                 "shares": 1000,
-                "currentPrice": 133.0,
+                "currentPrice": 131.5,
                 "isEmerging": false
             },
             {
@@ -66,7 +66,7 @@
                 "disburseDate": "115/11/16",
                 "subPrice": 252.0,
                 "shares": 1000,
-                "currentPrice": 308.5,
+                "currentPrice": 268.0,
                 "isEmerging": true
             }
         ]
