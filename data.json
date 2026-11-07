@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-06 15:49",
+        "update_time": "2026-11-07 14:56",
         "list": [
             {
                 "name": "宏偉",
@@ -55,19 +55,6 @@
                 "shares": 1000,
                 "currentPrice": 129.0,
                 "isEmerging": false
-            },
-            {
-                "name": "騏億鑫",
-                "code": "7848",
-                "market": "初上櫃",
-                "startDate": "115/11/04",
-                "endDate": "115/11/06",
-                "lotteryDate": "115/11/10",
-                "disburseDate": "115/11/16",
-                "subPrice": 252.0,
-                "shares": 1000,
-                "currentPrice": 271.0,
-                "isEmerging": true
             }
         ]
     }
