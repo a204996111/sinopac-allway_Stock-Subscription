@@ -2,8 +2,47 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-08 15:03",
+        "update_time": "2026-11-09 15:47",
         "list": [
+            {
+                "name": "宏于電機",
+                "code": "7869",
+                "market": "初上櫃",
+                "startDate": "115/11/16",
+                "endDate": "115/11/18",
+                "lotteryDate": "115/11/20",
+                "disburseDate": "115/11/26",
+                "subPrice": 208.0,
+                "shares": 1000,
+                "currentPrice": 299.0,
+                "isEmerging": true
+            },
+            {
+                "name": "碩禾",
+                "code": "3691",
+                "market": "上櫃增資",
+                "startDate": "115/11/11",
+                "endDate": "115/11/13",
+                "lotteryDate": "115/11/17",
+                "disburseDate": "115/11/25",
+                "subPrice": 80.0,
+                "shares": 1000,
+                "currentPrice": 148.5,
+                "isEmerging": false
+            },
+            {
+                "name": "天二科技",
+                "code": "6834",
+                "market": "上市增資",
+                "startDate": "115/11/11",
+                "endDate": "115/11/13",
+                "lotteryDate": "115/11/17",
+                "disburseDate": "115/11/25",
+                "subPrice": 80.0,
+                "shares": 1000,
+                "currentPrice": 96.3,
+                "isEmerging": false
+            },
             {
                 "name": "宏偉",
                 "code": "4565",
@@ -14,7 +53,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 90.0,
                 "shares": 1000,
-                "currentPrice": 117.0,
+                "currentPrice": 121.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +66,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 80.5,
+                "currentPrice": 80.6,
                 "isEmerging": true
             },
             {
@@ -40,7 +79,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 35.15,
                 "shares": 3000,
-                "currentPrice": 41.7,
+                "currentPrice": 42.1,
                 "isEmerging": false
             },
             {
@@ -53,7 +92,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 98.0,
                 "shares": 1000,
-                "currentPrice": 129.0,
+                "currentPrice": 134.5,
                 "isEmerging": false
             }
         ]
