@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-09 15:47",
+        "update_time": "2026-11-10 16:08",
         "list": [
             {
                 "name": "宏于電機",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/11/26",
                 "subPrice": 208.0,
                 "shares": 1000,
-                "currentPrice": 299.0,
+                "currentPrice": 293.5,
                 "isEmerging": true
             },
             {
@@ -27,7 +27,7 @@
                 "disburseDate": "115/11/25",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 148.5,
+                "currentPrice": 146.0,
                 "isEmerging": false
             },
             {
@@ -40,7 +40,7 @@
                 "disburseDate": "115/11/25",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 96.3,
+                "currentPrice": 98.9,
                 "isEmerging": false
             },
             {
@@ -53,7 +53,7 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 90.0,
                 "shares": 1000,
-                "currentPrice": 121.5,
+                "currentPrice": 120.5,
                 "isEmerging": true
             },
             {
@@ -66,34 +66,8 @@
                 "disburseDate": "115/11/19",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 80.6,
+                "currentPrice": 84.2,
                 "isEmerging": true
-            },
-            {
-                "name": "永豐金",
-                "code": "2890",
-                "market": "上市增資",
-                "startDate": "115/11/05",
-                "endDate": "115/11/09",
-                "lotteryDate": "115/11/11",
-                "disburseDate": "115/11/19",
-                "subPrice": 35.15,
-                "shares": 3000,
-                "currentPrice": 42.1,
-                "isEmerging": false
-            },
-            {
-                "name": "金山電",
-                "code": "8042",
-                "market": "上櫃增資",
-                "startDate": "115/11/05",
-                "endDate": "115/11/09",
-                "lotteryDate": "115/11/11",
-                "disburseDate": "115/11/19",
-                "subPrice": 98.0,
-                "shares": 1000,
-                "currentPrice": 134.5,
-                "isEmerging": false
             }
         ]
     }
