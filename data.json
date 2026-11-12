@@ -2,8 +2,21 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-11 15:38",
+        "update_time": "2026-11-12 16:06",
         "list": [
+            {
+                "name": "騰勢",
+                "code": "7889",
+                "market": "初上櫃",
+                "startDate": "115/11/19",
+                "endDate": "115/11/23",
+                "lotteryDate": "115/11/25",
+                "disburseDate": "115/12/01",
+                "subPrice": 50.88,
+                "shares": 1000,
+                "currentPrice": 61.8,
+                "isEmerging": true
+            },
             {
                 "name": "宏于電機",
                 "code": "7869",
@@ -14,7 +27,7 @@
                 "disburseDate": "115/11/26",
                 "subPrice": 208.0,
                 "shares": 1000,
-                "currentPrice": 280.0,
+                "currentPrice": 293.0,
                 "isEmerging": true
             },
             {
@@ -27,7 +40,7 @@
                 "disburseDate": "115/11/25",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 135.5,
+                "currentPrice": 143.5,
                 "isEmerging": false
             },
             {
@@ -40,34 +53,8 @@
                 "disburseDate": "115/11/25",
                 "subPrice": 80.0,
                 "shares": 1000,
-                "currentPrice": 104.5,
+                "currentPrice": 101.0,
                 "isEmerging": false
-            },
-            {
-                "name": "宏偉",
-                "code": "4565",
-                "market": "初上櫃",
-                "startDate": "115/11/09",
-                "endDate": "115/11/11",
-                "lotteryDate": "115/11/13",
-                "disburseDate": "115/11/19",
-                "subPrice": 90.0,
-                "shares": 1000,
-                "currentPrice": 120.0,
-                "isEmerging": true
-            },
-            {
-                "name": "耐特",
-                "code": "8058",
-                "market": "初上市",
-                "startDate": "115/11/09",
-                "endDate": "115/11/11",
-                "lotteryDate": "115/11/13",
-                "disburseDate": "115/11/19",
-                "subPrice": 80.0,
-                "shares": 1000,
-                "currentPrice": 83.9,
-                "isEmerging": true
             }
         ]
     }
