@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-13 15:42",
+        "update_time": "2026-11-14 15:29",
         "list": [
             {
                 "name": "騰勢",
@@ -29,32 +29,6 @@
                 "shares": 1000,
                 "currentPrice": 293.0,
                 "isEmerging": true
-            },
-            {
-                "name": "碩禾",
-                "code": "3691",
-                "market": "上櫃增資",
-                "startDate": "115/11/11",
-                "endDate": "115/11/13",
-                "lotteryDate": "115/11/17",
-                "disburseDate": "115/11/25",
-                "subPrice": 80.0,
-                "shares": 1000,
-                "currentPrice": 137.0,
-                "isEmerging": false
-            },
-            {
-                "name": "天二科技",
-                "code": "6834",
-                "market": "上市增資",
-                "startDate": "115/11/11",
-                "endDate": "115/11/13",
-                "lotteryDate": "115/11/17",
-                "disburseDate": "115/11/25",
-                "subPrice": 80.0,
-                "shares": 1000,
-                "currentPrice": 101.5,
-                "isEmerging": false
             }
         ]
     }
