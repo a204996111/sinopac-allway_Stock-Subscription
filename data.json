@@ -2,7 +2,7 @@
     "status": "success",
     "data": {
         "source": "github_actions",
-        "update_time": "2026-11-24 18:46",
+        "update_time": "2026-11-25 17:42",
         "list": [
             {
                 "name": "精技",
@@ -14,7 +14,7 @@
                 "disburseDate": "115/12/07",
                 "subPrice": 46.0,
                 "shares": 1000,
-                "currentPrice": 47.1,
+                "currentPrice": 46.1,
                 "isEmerging": false
             }
         ]
